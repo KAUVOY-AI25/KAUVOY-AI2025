@@ -1,0 +1,11 @@
+<launch>
+    <node pkg="timestamp" 
+          type="timestamp.py" 
+          name="timestamp" 
+          output="screen"/>
+          
+              <!-- 추가 코드 
+    	  <param name="frame_id" value="map"/>
+  	  <node pkg="tf" type="static_transform_publisher"
+  	  name="gps_to_map" /> -->
+</launch>
