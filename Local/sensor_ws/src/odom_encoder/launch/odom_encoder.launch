@@ -1,0 +1,13 @@
+<launch>
+    <node pkg="odom_encoder" 
+          type="odom_encoder.py" 
+          name="odom_encoder" 
+          output="screen"/>
+          
+          <!--추가한 코드
+          <node pkg="tf" type="static_transform_publisher" name="base_link_to_odom" args="0 0 0 0 0 0 odom base_link 100"/>
+
+          <param name="odom_frame" value="odom" />
+	  <param name="base_link_frame" value="base_link" /> -->
+
+</launch>
