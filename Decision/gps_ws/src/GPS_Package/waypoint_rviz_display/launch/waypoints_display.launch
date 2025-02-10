@@ -1,0 +1,12 @@
+<launch>
+   <node pkg="tf" type="static_transform_publisher" name="map_utm_tf"  args= "0.0 0.0 0.0 -1.570795 0.0 0.0 map utm 10" />
+
+   <!--  datum topic use  : 0 -->
+   <rosparam param="gps_init_datum">[35.824790 , 128.7533499 ]</rosparam>
+      
+   <!--  datum topic use  : 1 -->
+   <param name="use_gps_init_datum" type="int" value = "1" />    
+   
+   <node pkg="waypoint_rviz_display" type="waypoint_rviz_display_node" name="waypoint_rviz_display_node" output="screen"/>
+
+</launch>

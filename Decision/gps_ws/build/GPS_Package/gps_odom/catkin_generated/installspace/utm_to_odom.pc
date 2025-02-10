@@ -1,0 +1,8 @@
+prefix=/home/kauvoyai/gps_ws/install
+
+Name: utm_to_odom
+Description: Description of utm_to_odom
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msg geometry_msgs tf2_geometry_msgs sensor_msgs tf
