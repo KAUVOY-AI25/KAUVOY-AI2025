@@ -1,0 +1,41 @@
+[Pure Pursuit 패키지 분석]
+
+gps_datum_pub.cpp: datum(측지 기준계)를 launch파일에 parameter로 넣어서 publish
+ㄴ /gps/datum - vector3 (x, y, yaw)
+
+gps_msgs_package.cpp : GPS 데이터 처리 및 IMU 데이터로 차량의 위치 및 헤딩(heading) 각도 계산 
+사용: imu, gps
+ㄴ /gps_heading_angle - Float32
+ㄴ /gps/utm_pos1 - Pose2D
+ㄴ /gps/fix_status1 - Bool 
+ㄴ /east_heading_angle - Float32
+
+waypoints_navigation_node.cpp
+ㄴ /Car_Control_cmd/A_SteerAngle_Int16
+ㄴ /Car_Control_cmd/A_Speed_Int16
+ㄴ target_id - Int16
+ㄴ /pose_goal - Pose2D 내가 가고자 하는 목표 지점의 위경도
+ㄴ /waypoint_guide_line" - Path
+
+
+roslaunch gps_msgs_package gps_msgs_package.launch 
+roslaunch gps_datum_pub gps_datum.launch
+roslaunch waypoints_move move_plan.launch
+rosrun control_cmd_pkg control_cmd_node 
+roslaunch waypoint_car_steering_control waypoint_control.launch 
+
+
+roslaunch waypoint_rviz_display waypoints_display.launch 
+roslaunch geonav_transform geonav_transform.launch
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+GPS키고 차 키고 IMU키고 엔코더 키고 TIMESTAMP키고 
+ODOM_ENCODER 키고 워크스페이스에 5개 파일 다 켜야돼
+ROBOT LOCALIZATION경우 실행 dual ekf transpos _example....launch
+

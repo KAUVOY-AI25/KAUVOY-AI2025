@@ -1,0 +1,8 @@
+prefix=/home/kauvoyai/gps_ws/devel
+
+Name: control_cmd_pkg
+Description: Description of control_cmd_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

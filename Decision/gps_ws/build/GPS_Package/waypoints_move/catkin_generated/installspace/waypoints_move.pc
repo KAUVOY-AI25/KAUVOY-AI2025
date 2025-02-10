@@ -1,0 +1,8 @@
+prefix=/home/kauvoyai/gps_ws/install
+
+Name: waypoints_move
+Description: Description of waypoints_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs visualization_msgs tf2_geometry_msgs

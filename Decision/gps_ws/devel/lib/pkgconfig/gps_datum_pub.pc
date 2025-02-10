@@ -1,0 +1,8 @@
+prefix=/home/kauvoyai/gps_ws/devel
+
+Name: gps_datum_pub
+Description: Description of gps_datum_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs
