@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import rospy
 import message_filters
 from sensor_msgs.msg import Imu, NavSatFix
@@ -40,8 +41,9 @@ def synchronize_data():
     # GPS, IMU, Encoder 데이터 구독
     gps_sub = message_filters.Subscriber('/ublox_gps/fix', NavSatFix)
     imu_sub = message_filters.Subscriber('/vectornav/IMU', Imu) 
+    #imu_sub = message_filters.Subscriber('/imu_data', Imu)
     encoder_sub = message_filters.Subscriber('/erp42_encoder', Int32)
-
+    
     # Time synchronizer 설정 (allow_headerless=True)
     ts = message_filters.ApproximateTimeSynchronizer([gps_sub, imu_sub, encoder_sub], queue_size=30, slop=0.033, allow_headerless=True)
     ts.registerCallback(sync_callback)
