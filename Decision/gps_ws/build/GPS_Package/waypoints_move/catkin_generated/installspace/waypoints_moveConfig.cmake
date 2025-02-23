@@ -67,14 +67,14 @@ set(waypoints_move_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(waypoints_move_SOURCE_PREFIX /home/kauvoyai/gps_ws/src/GPS_Package/waypoints_move)
-  set(waypoints_move_DEVEL_PREFIX /home/kauvoyai/gps_ws/devel)
+  set(waypoints_move_SOURCE_PREFIX /home/kauvoy/gps_ws/src/GPS_Package/waypoints_move)
+  set(waypoints_move_DEVEL_PREFIX /home/kauvoy/gps_ws/devel)
   set(waypoints_move_INSTALL_PREFIX "")
   set(waypoints_move_PREFIX ${waypoints_move_DEVEL_PREFIX})
 else()
   set(waypoints_move_SOURCE_PREFIX "")
   set(waypoints_move_DEVEL_PREFIX "")
-  set(waypoints_move_INSTALL_PREFIX /home/kauvoyai/gps_ws/install)
+  set(waypoints_move_INSTALL_PREFIX /home/kauvoy/gps_ws/install)
   set(waypoints_move_PREFIX ${waypoints_move_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/kauvoyai/gps_ws/install/lib;/opt/ros/noetic/lib)
+    foreach(path /home/kauvoy/gps_ws/install/lib;/home/kauvoy/trackrace/devel/lib;/home/kauvoy/catkin_ws/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

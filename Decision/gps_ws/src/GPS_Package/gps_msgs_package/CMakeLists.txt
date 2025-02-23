@@ -36,7 +36,7 @@ include_directories(
 )
 
 
-add_executable(gps_msgs_package_node src/gps_msgs_package.cpp)
+add_executable(gps_msgs_package_node src/gps_msgs_package_singleGPS_imu.cpp) #코드 바뀌면 여기서 이름 수정해서 빌드할 것
 add_dependencies(gps_msgs_package_node ${gps_msgs_package_node_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(gps_msgs_package_node ${catkin_LIBRARIES} )
 

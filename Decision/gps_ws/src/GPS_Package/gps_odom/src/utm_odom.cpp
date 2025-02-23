@@ -259,7 +259,7 @@ int main(int argc, char **argv)
    
     odom_quat = tf::createQuaternionMsgFromYaw(yaw);//yaw trans quat
  
-     //pub tf(odom->base_footprint)
+    // pub tf(odom->base_footprint)
     odom_trans.header.stamp = ros::Time::now();
     odom_trans.header.frame_id = odom_frame_id;     
     odom_trans.child_frame_id = odom_child_frame_id;       

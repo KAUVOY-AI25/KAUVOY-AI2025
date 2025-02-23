@@ -1,4 +1,4 @@
-prefix=/home/kauvoyai/gps_ws/install
+prefix=/home/kauvoy/gps_ws/install
 
 Name: ublox_msgs
 Description: Description of ublox_msgs

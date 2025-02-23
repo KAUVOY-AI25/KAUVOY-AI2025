@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/ublox_gps/ublox_gps"
-  "/home/kauvoyai/gps_ws/devel/lib/ublox_gps/ublox_gps.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/ublox_gps/ublox_gps"
+  "/home/kauvoy/gps_ws/devel/lib/ublox_gps/ublox_gps.pdb"
   "CMakeFiles/ublox_gps_node.dir/src/mkgmtime.c.o"
   "CMakeFiles/ublox_gps_node.dir/src/node.cpp.o"
 )

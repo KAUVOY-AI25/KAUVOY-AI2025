@@ -1,8 +1,8 @@
-prefix=/home/kauvoyai/gps_ws/devel
+prefix=/home/kauvoy/gps_ws/devel
 
 Name: utm_to_odom
 Description: Description of utm_to_odom
 Version: 0.0.0
-Cflags: -I/home/kauvoyai/gps_ws/src/GPS_Package/gps_odom/include
+Cflags: -I/home/kauvoy/gps_ws/src/GPS_Package/gps_odom/include
 Libs: -L${prefix}/lib 
 Requires: roscpp rospy std_msg geometry_msgs tf2_geometry_msgs sensor_msgs tf

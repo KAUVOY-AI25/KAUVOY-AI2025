@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/share/roseus/ros/rtcm_msgs/manifest.l"
-  "/home/kauvoyai/gps_ws/devel/share/roseus/ros/rtcm_msgs/msg/Message.l"
+  "/home/kauvoy/gps_ws/devel/share/roseus/ros/rtcm_msgs/manifest.l"
+  "/home/kauvoy/gps_ws/devel/share/roseus/ros/rtcm_msgs/msg/Message.l"
   "CMakeFiles/rtcm_msgs_generate_messages_eus"
 )
 

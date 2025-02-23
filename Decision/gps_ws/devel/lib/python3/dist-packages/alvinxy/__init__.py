@@ -6,7 +6,7 @@ from os import path as os_path
 from pkgutil import extend_path
 from sys import path as sys_path
 
-__extended_path = '/home/kauvoyai/gps_ws/src/GPS_Package/geonav_transform/src'.split(';')
+__extended_path = '/home/kauvoy/gps_ws/src/GPS_Package/geonav_transform/src'.split(';')
 for p in reversed(__extended_path):
     sys_path.insert(0, p)
     del p

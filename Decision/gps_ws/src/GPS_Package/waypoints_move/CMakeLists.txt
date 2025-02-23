@@ -31,6 +31,6 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(waypoints_move_node src/waypoints_navigation_node.cpp)
+add_executable(waypoints_move_node src/waypoints_navigation_node.cpp) #<--필요할때 코드 바꿔서 빌드
 add_dependencies(waypoints_move_node ${waypoints_move_node_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(waypoints_move_node ${catkin_LIBRARIES} )

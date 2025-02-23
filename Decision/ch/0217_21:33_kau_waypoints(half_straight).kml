@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <LineStyle id="55">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Waypoint</name>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>126.86637289999999,37.6013561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Waypoint</name>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>126.86635159999999,37.6013133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Waypoint</name>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>126.8663253,37.601262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Waypoint</name>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>126.8663012,37.6012059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Waypoint</name>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>126.8662768,37.6011557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Waypoint</name>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>126.866255,37.601106099999996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Waypoint</name>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>126.86628719999999,37.6011763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Waypoint</name>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>126.8663191,37.6012509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Waypoint</name>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>126.86634719999999,37.6013021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Waypoint</name>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>126.8663668,37.6013448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <styleUrl>#54</styleUrl>
+            <LineString id="52">
+                <coordinates>126.86637289999999,37.6013561,0.0 126.86635159999999,37.6013133,0.0 126.8663253,37.601262,0.0 126.8663012,37.6012059,0.0 126.8662768,37.6011557,0.0 126.866255,37.601106099999996,0.0 126.86628719999999,37.6011763,0.0 126.8663191,37.6012509,0.0 126.86634719999999,37.6013021,0.0 126.8663668,37.6013448,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

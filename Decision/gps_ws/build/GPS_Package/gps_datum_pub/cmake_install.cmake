@@ -1,8 +1,8 @@
-# Install script for directory: /home/kauvoyai/gps_ws/src/GPS_Package/gps_datum_pub
+# Install script for directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_datum_pub
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kauvoyai/gps_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kauvoy/gps_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoyai/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pub.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoy/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pub.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_datum_pub/cmake" TYPE FILE FILES
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pubConfig.cmake"
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pubConfig-version.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pubConfig.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_datum_pub/catkin_generated/installspace/gps_datum_pubConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_datum_pub" TYPE FILE FILES "/home/kauvoyai/gps_ws/src/GPS_Package/gps_datum_pub/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_datum_pub" TYPE FILE FILES "/home/kauvoy/gps_ws/src/GPS_Package/gps_datum_pub/package.xml")
 endif()
 

@@ -18,7 +18,7 @@
 #define DEG2RAD(x) ((x)/180.*M_PI)
 
 #define total_waypoints 50
-#define WAYPOINT_DIR "/home/kauvoyai/gps_ws/src/GPS_Package/240209_kau.txt"
+#define WAYPOINT_DIR "/home/kauvoy/gps_ws/0219_22:37_kau_UTM_v.txt"
 
 int no_waypoints;
 
@@ -251,7 +251,7 @@ int main(int argc, char **argv){
     Point3D o_node = vec_point[i];
 
     visualization_msgs::Marker node;
-    node.header.frame_id = "/map"; // map frame 기준
+    node.header.frame_id = "map"; // map frame 기준
     node.header.stamp = ros::Time::now();
     node.type = visualization_msgs::Marker::SPHERE;
     node.id = i;
@@ -274,7 +274,7 @@ int main(int argc, char **argv){
     Point3D o_node_txt = vec_point[i];
 
     visualization_msgs::Marker node_txt;
-    node_txt.header.frame_id = "/map"; // map frame 기준
+    node_txt.header.frame_id = "map"; // map frame 기준
     node_txt.header.stamp = ros::Time::now();
     
     node_txt.type = visualization_msgs::Marker::TEXT_VIEW_FACING;
@@ -336,7 +336,7 @@ int main(int argc, char **argv){
     	
 	}	  
 	  
-	marker_pub .publish(node_arr);  
+	marker_pub.publish(node_arr);  
 		
 	// show virtual line
 	virtual_line_path = draw_virtual_line(current_time);
@@ -348,5 +348,3 @@ int main(int argc, char **argv){
   }
   return 0;
 }
-
-

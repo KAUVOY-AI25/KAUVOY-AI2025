@@ -1,5 +1,5 @@
 <launch> 
-
+   <node pkg="tf" type="static_transform_publisher" name="map_utm_odom_tf" args="0.0 0.0 0.0  0.0 0.0 0.0 map odom 10"/>
    <node name="utm_odom_node" pkg="utm_to_odom" type="utm_odom_node" output="screen" />
 
 </launch> 

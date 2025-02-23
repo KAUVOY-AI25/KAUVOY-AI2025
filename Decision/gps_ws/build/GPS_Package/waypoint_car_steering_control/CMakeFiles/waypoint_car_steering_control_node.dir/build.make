@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kauvoyai/gps_ws/src
+CMAKE_SOURCE_DIR = /home/kauvoy/gps_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kauvoyai/gps_ws/build
+CMAKE_BINARY_DIR = /home/kauvoy/gps_ws/build
 
 # Include any dependencies generated for this target.
 include GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/depend.make
@@ -57,65 +57,65 @@ include GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steeri
 # Include the compile flags for this target's objects.
 include GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/flags.make
 
-GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/flags.make
-GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o: /home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kauvoyai/gps_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o"
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o -c /home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node.cpp
+GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/flags.make
+GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o: /home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node_rviz.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kauvoy/gps_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o"
+	cd /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o -c /home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node_rviz.cpp
 
-GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.i"
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node.cpp > CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.i
+GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.i"
+	cd /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node_rviz.cpp > CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.i
 
-GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.s"
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node.cpp -o CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.s
+GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.s"
+	cd /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node_rviz.cpp -o CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.s
 
 # Object files for target waypoint_car_steering_control_node
 waypoint_car_steering_control_node_OBJECTS = \
-"CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o"
+"CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o"
 
 # External object files for target waypoint_car_steering_control_node
 waypoint_car_steering_control_node_EXTERNAL_OBJECTS =
 
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node.cpp.o
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/build.make
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/liborocos-kdl.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/liborocos-kdl.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libtf2_ros.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libactionlib.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libmessage_filters.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libroscpp.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libtf2.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librostime.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libcpp_common.so
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kauvoyai/gps_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node"
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/waypoint_car_steering_control_node.dir/link.txt --verbose=$(VERBOSE)
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/src/waypoint_car_steering_control_node_rviz.cpp.o
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/build.make
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/liborocos-kdl.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/liborocos-kdl.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libtf2_ros.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libactionlib.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libmessage_filters.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libroscpp.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libtf2.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/librostime.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /opt/ros/noetic/lib/libcpp_common.so
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node: GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kauvoy/gps_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node"
+	cd /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/waypoint_car_steering_control_node.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/build: /home/kauvoyai/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node
+GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/build: /home/kauvoy/gps_ws/devel/lib/waypoint_car_steering_control/waypoint_car_steering_control_node
 
 .PHONY : GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/build
 
 GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/clean:
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control && $(CMAKE_COMMAND) -P CMakeFiles/waypoint_car_steering_control_node.dir/cmake_clean.cmake
+	cd /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control && $(CMAKE_COMMAND) -P CMakeFiles/waypoint_car_steering_control_node.dir/cmake_clean.cmake
 .PHONY : GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/clean
 
 GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/depend:
-	cd /home/kauvoyai/gps_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kauvoyai/gps_ws/src /home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control /home/kauvoyai/gps_ws/build /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control /home/kauvoyai/gps_ws/build/GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kauvoy/gps_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kauvoy/gps_ws/src /home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control /home/kauvoy/gps_ws/build /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control /home/kauvoy/gps_ws/build/GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : GPS_Package/waypoint_car_steering_control/CMakeFiles/waypoint_car_steering_control_node.dir/depend
 

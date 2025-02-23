@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"ublox_msgs\" -Dublox_msgs_EXPORTS
 
-CXX_INCLUDES = -I/home/kauvoyai/gps_ws/devel/include -I/home/kauvoyai/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs/include -I/home/kauvoyai/gps_ws/src/GPS_Package/ublox_f9p/ublox_serialization/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/kauvoy/gps_ws/devel/include -I/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs/include -I/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_serialization/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 
