@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/waypoints_move/waypoints_move_node"
-  "/home/kauvoyai/gps_ws/devel/lib/waypoints_move/waypoints_move_node.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/waypoints_move/waypoints_move_node"
+  "/home/kauvoy/gps_ws/devel/lib/waypoints_move/waypoints_move_node.pdb"
   "CMakeFiles/waypoints_move_node.dir/src/waypoints_navigation_node.cpp.o"
 )
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/share/common-lisp/ros/rtcm_msgs/msg/Message.lisp"
+  "/home/kauvoy/gps_ws/devel/share/common-lisp/ros/rtcm_msgs/msg/Message.lisp"
   "CMakeFiles/rtcm_msgs_generate_messages_lisp"
 )
 

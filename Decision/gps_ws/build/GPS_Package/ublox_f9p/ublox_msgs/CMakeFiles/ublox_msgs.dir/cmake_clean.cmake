@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/libublox_msgs.pdb"
-  "/home/kauvoyai/gps_ws/devel/lib/libublox_msgs.so"
+  "/home/kauvoy/gps_ws/devel/lib/libublox_msgs.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/libublox_msgs.so"
   "CMakeFiles/ublox_msgs.dir/src/ublox_msgs.cpp.o"
 )
 

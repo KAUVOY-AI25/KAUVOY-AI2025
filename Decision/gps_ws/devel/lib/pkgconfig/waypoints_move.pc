@@ -1,4 +1,4 @@
-prefix=/home/kauvoyai/gps_ws/devel
+prefix=/home/kauvoy/gps_ws/devel
 
 Name: waypoints_move
 Description: Description of waypoints_move

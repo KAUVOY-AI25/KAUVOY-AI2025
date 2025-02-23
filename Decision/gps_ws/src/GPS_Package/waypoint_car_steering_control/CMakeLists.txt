@@ -31,6 +31,6 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(waypoint_car_steering_control_node src/waypoint_car_steering_control_node.cpp)
+add_executable(waypoint_car_steering_control_node src/waypoint_car_steering_control_node_rviz.cpp)
 add_dependencies(waypoint_car_steering_control_node ${waypoint_car_steering_control_node_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 target_link_libraries(waypoint_car_steering_control_node ${catkin_LIBRARIES} )

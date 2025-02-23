@@ -1,0 +1,10 @@
+digraph G {
+"utm" -> "odom"[label="Broadcaster: /geonav_transform_node\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1739718747.250 sec old)\nBuffer length: 0.000 sec\n"];
+"map" -> "utm"[label="Broadcaster: /map_utm_tf\nAverage rate: 98.761 Hz\nMost recent transform: 1739718747.251 ( -0.001 sec old)\nBuffer length: 4.972 sec\n"];
+"odom" -> "gps_footprint"[label="Broadcaster: /utm_odom_node\nAverage rate: 10.204 Hz\nMost recent transform: 1739718747.174 ( 0.076 sec old)\nBuffer length: 4.900 sec\n"];
+"odom" -> "base_link"[label="Broadcaster: /geonav_transform_node\nAverage rate: 10.204 Hz\nMost recent transform: 1739718747.187 ( 0.063 sec old)\nBuffer length: 4.900 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1739718747.250"[ shape=plaintext ] ;
+ }->"map";
+}

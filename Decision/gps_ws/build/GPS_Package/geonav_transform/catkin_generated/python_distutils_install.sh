@@ -13,21 +13,21 @@ fi
 
 echo_and_run() { echo "+ $@" ; "$@" ; }
 
-echo_and_run cd "/home/kauvoyai/gps_ws/src/GPS_Package/geonav_transform"
+echo_and_run cd "/home/kauvoy/gps_ws/src/GPS_Package/geonav_transform"
 
 # ensure that Python install destination exists
-echo_and_run mkdir -p "$DESTDIR/home/kauvoyai/gps_ws/install/lib/python3/dist-packages"
+echo_and_run mkdir -p "$DESTDIR/home/kauvoy/gps_ws/install/lib/python3/dist-packages"
 
 # Note that PYTHONPATH is pulled from the environment to support installing
 # into one location when some dependencies were installed in another
 # location, #123.
 echo_and_run /usr/bin/env \
-    PYTHONPATH="/home/kauvoyai/gps_ws/install/lib/python3/dist-packages:/home/kauvoyai/gps_ws/build/lib/python3/dist-packages:$PYTHONPATH" \
-    CATKIN_BINARY_DIR="/home/kauvoyai/gps_ws/build" \
-    "/home/kauvoyai/.conda/envs/main/bin/python3" \
-    "/home/kauvoyai/gps_ws/src/GPS_Package/geonav_transform/setup.py" \
+    PYTHONPATH="/home/kauvoy/gps_ws/install/lib/python3/dist-packages:/home/kauvoy/gps_ws/build/lib/python3/dist-packages:$PYTHONPATH" \
+    CATKIN_BINARY_DIR="/home/kauvoy/gps_ws/build" \
+    "/home/kauvoy/.conda/envs/main/bin/python3" \
+    "/home/kauvoy/gps_ws/src/GPS_Package/geonav_transform/setup.py" \
      \
-    build --build-base "/home/kauvoyai/gps_ws/build/GPS_Package/geonav_transform" \
+    build --build-base "/home/kauvoy/gps_ws/build/GPS_Package/geonav_transform" \
     install \
     --root="${DESTDIR-/}" \
-    --install-layout=deb --prefix="/home/kauvoyai/gps_ws/install" --install-scripts="/home/kauvoyai/gps_ws/install/bin"
+    --install-layout=deb --prefix="/home/kauvoy/gps_ws/install" --install-scripts="/home/kauvoy/gps_ws/install/bin"

@@ -158,22 +158,21 @@ int main(int argc, char **argv){
     std_msgs::Int16 s_angle;
     
     while (ros::ok()){	
-
+        /*steering 각도 계산 시작*/
         double waypoint_pos_base_link_x     = 0.0;
         double waypoint_pos_base_link_y     = 0.0; 
         double waypoint_pos_base_link_theta = 0.0; 
         double tf_base_map_x = 0.0, tf_base_map_y = 0.0; 
-        
-        tf_base_map_x = - my_pose.x;   //상대좌표로 변환  no translation
-        tf_base_map_y = - my_pose.y;
-        
-        tf_base_map_x += my_target_pose_goal.x;   //상대좌표로 변환  no translation
-        tf_base_map_y += my_target_pose_goal.y;     
+
+        tf_base_map_x = my_target_pose_goal.x - my_pose.x; /*0215 이솔 수정*/
+        tf_base_map_y = my_target_pose_goal.y - my_pose.y; /*0215 이솔 수정*/
         
         waypoint_pos_base_link_x = tf_base_map_x * cos(my_pose.theta)  + tf_base_map_y * sin(my_pose.theta);   // rotation_matrix
         waypoint_pos_base_link_y = -tf_base_map_x * sin(my_pose.theta) + tf_base_map_y * cos(my_pose.theta);   	
-        
+
         waypoint_angle = atan2(waypoint_pos_base_link_y ,waypoint_pos_base_link_x);	// 상대좌표 계산 - 각도
+        /*steering 각도 계산 마무리*/
+        
         filtered_waypoint_angle = low_pass_filter(waypoint_angle, waypoint_angle_old , 0.7); // 상대좌표 계산 - 거리
         
         waypoint_angle_old =  waypoint_angle;   

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/_Message.py"
-  "/home/kauvoyai/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/__init__.py"
+  "/home/kauvoy/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/_Message.py"
+  "/home/kauvoy/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/__init__.py"
   "CMakeFiles/rtcm_msgs_generate_messages_py"
 )
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/share/gennodejs/ros/rtcm_msgs/msg/Message.js"
+  "/home/kauvoy/gps_ws/devel/share/gennodejs/ros/rtcm_msgs/msg/Message.js"
   "CMakeFiles/rtcm_msgs_generate_messages_nodejs"
 )
 

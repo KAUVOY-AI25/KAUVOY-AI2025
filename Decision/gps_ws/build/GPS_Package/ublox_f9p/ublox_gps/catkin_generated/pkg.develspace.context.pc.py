@@ -1,8 +1,8 @@
 # generated from catkin/cmake/template/pkg.context.pc.in
 CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/kauvoyai/gps_ws/src/GPS_Package/ublox_f9p/ublox_gps/include".split(';') if "/home/kauvoyai/gps_ws/src/GPS_Package/ublox_f9p/ublox_gps/include" != "" else []
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_gps/include".split(';') if "/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_gps/include" != "" else []
 PROJECT_CATKIN_DEPENDS = "roscpp;ublox_msgs;ublox_serialization".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lublox_gps".split(';') if "-lublox_gps" != "" else []
 PROJECT_NAME = "ublox_gps"
-PROJECT_SPACE_DIR = "/home/kauvoyai/gps_ws/devel"
+PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
 PROJECT_VERSION = "1.1.2"

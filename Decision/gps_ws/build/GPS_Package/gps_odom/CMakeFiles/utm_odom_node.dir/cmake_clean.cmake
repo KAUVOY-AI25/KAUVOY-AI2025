@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/utm_to_odom/utm_odom_node"
-  "/home/kauvoyai/gps_ws/devel/lib/utm_to_odom/utm_odom_node.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/utm_to_odom/utm_odom_node"
+  "/home/kauvoy/gps_ws/devel/lib/utm_to_odom/utm_odom_node.pdb"
   "CMakeFiles/utm_odom_node.dir/src/utm_odom.cpp.o"
 )
 

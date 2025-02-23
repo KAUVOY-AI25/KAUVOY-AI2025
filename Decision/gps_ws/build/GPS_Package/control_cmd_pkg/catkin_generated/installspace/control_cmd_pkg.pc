@@ -1,4 +1,4 @@
-prefix=/home/kauvoyai/gps_ws/install
+prefix=/home/kauvoy/gps_ws/install
 
 Name: control_cmd_pkg
 Description: Description of control_cmd_pkg

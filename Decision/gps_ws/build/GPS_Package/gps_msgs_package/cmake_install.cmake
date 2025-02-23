@@ -1,8 +1,8 @@
-# Install script for directory: /home/kauvoyai/gps_ws/src/GPS_Package/gps_msgs_package
+# Install script for directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_msgs_package
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kauvoyai/gps_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kauvoy/gps_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoyai/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_package.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoy/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_package.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_msgs_package/cmake" TYPE FILE FILES
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_packageConfig.cmake"
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_packageConfig-version.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_packageConfig.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_msgs_package/catkin_generated/installspace/gps_msgs_packageConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_msgs_package" TYPE FILE FILES "/home/kauvoyai/gps_ws/src/GPS_Package/gps_msgs_package/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_msgs_package" TYPE FILE FILES "/home/kauvoy/gps_ws/src/GPS_Package/gps_msgs_package/package.xml")
 endif()
 

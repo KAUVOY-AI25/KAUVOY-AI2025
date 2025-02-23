@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node"
-  "/home/kauvoyai/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node"
+  "/home/kauvoy/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node.pdb"
   "CMakeFiles/gps_datum_pub_node.dir/src/gps_datum_pub.cpp.o"
 )
 

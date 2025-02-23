@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node"
-  "/home/kauvoyai/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node"
+  "/home/kauvoy/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node.pdb"
   "CMakeFiles/waypoint_rviz_display_node.dir/src/waypoints_rviz_display.cpp.o"
 )
 

@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "control_cmd_pkg"
-PROJECT_SPACE_DIR = "/home/kauvoyai/gps_ws/devel"
+PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
 PROJECT_VERSION = "0.0.0"

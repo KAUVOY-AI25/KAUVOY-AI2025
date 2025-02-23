@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node"
-  "/home/kauvoyai/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node"
+  "/home/kauvoy/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node.pdb"
   "CMakeFiles/control_cmd_node.dir/src/control_cmd_node.cpp.o"
 )
 

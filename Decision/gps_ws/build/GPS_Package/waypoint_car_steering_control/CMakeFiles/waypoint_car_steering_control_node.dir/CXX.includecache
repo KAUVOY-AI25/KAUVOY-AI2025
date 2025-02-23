@@ -6,25 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node.cpp
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/waypoint_car_steering_control_node_rviz.cpp
 ros/ros.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/ros/ros.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/ros/ros.h
 std_msgs/String.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/String.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/String.h
 std_msgs/Int16.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/Int16.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/Int16.h
+std_msgs/Int32.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/Int32.h
 std_msgs/Float32.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/Float32.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/std_msgs/Float32.h
 geometry_msgs/Twist.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/Twist.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/Twist.h
 geometry_msgs/PoseStamped.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/PoseStamped.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/PoseStamped.h
 geometry_msgs/Pose2D.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/Pose2D.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/geometry_msgs/Pose2D.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/tf2_geometry_msgs/tf2_geometry_msgs.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/tf2_geometry_msgs/tf2_geometry_msgs.h
 sensor_msgs/Imu.h
-/home/kauvoyai/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/sensor_msgs/Imu.h
+/home/kauvoy/gps_ws/src/GPS_Package/waypoint_car_steering_control/src/sensor_msgs/Imu.h
 chrono
 -
 
@@ -601,6 +603,8 @@ ros/init.h
 /opt/ros/noetic/include/ros/ros/init.h
 common.h
 /opt/ros/noetic/include/ros/common.h
+boost/bind.hpp
+-
 xmlrpcpp/XmlRpcValue.h
 -
 
@@ -645,7 +649,7 @@ ros/message.h
 /opt/ros/noetic/include/ros/ros/message.h
 ros/serialization.h
 /opt/ros/noetic/include/ros/ros/serialization.h
-boost/bind/bind.hpp
+boost/bind.hpp
 -
 boost/thread/mutex.hpp
 -
@@ -1035,6 +1039,22 @@ ros/message_operations.h
 -
 
 /opt/ros/noetic/include/std_msgs/Int16.h
+string
+-
+vector
+-
+memory
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
+/opt/ros/noetic/include/std_msgs/Int32.h
 string
 -
 vector

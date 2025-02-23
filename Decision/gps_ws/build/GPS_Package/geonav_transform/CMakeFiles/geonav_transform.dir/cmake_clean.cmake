@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/kauvoyai/gps_ws/devel/lib/libgeonav_transform.pdb"
-  "/home/kauvoyai/gps_ws/devel/lib/libgeonav_transform.so"
+  "/home/kauvoy/gps_ws/devel/lib/libgeonav_transform.pdb"
+  "/home/kauvoy/gps_ws/devel/lib/libgeonav_transform.so"
   "CMakeFiles/geonav_transform.dir/src/geonav_transform.cpp.o"
   "CMakeFiles/geonav_transform.dir/src/geonav_utilities.cpp.o"
 )

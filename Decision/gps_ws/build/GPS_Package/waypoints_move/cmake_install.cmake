@@ -1,8 +1,8 @@
-# Install script for directory: /home/kauvoyai/gps_ws/src/GPS_Package/waypoints_move
+# Install script for directory: /home/kauvoy/gps_ws/src/GPS_Package/waypoints_move
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kauvoyai/gps_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kauvoy/gps_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoyai/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_move.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoy/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_move.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/waypoints_move/cmake" TYPE FILE FILES
-    "/home/kauvoyai/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_moveConfig.cmake"
-    "/home/kauvoyai/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_moveConfig-version.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_moveConfig.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/waypoints_move/catkin_generated/installspace/waypoints_moveConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/waypoints_move" TYPE FILE FILES "/home/kauvoyai/gps_ws/src/GPS_Package/waypoints_move/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/waypoints_move" TYPE FILE FILES "/home/kauvoy/gps_ws/src/GPS_Package/waypoints_move/package.xml")
 endif()
 

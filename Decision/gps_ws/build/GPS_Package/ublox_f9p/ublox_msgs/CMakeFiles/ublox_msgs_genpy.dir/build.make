@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kauvoyai/gps_ws/src
+CMAKE_SOURCE_DIR = /home/kauvoy/gps_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kauvoyai/gps_ws/build
+CMAKE_BINARY_DIR = /home/kauvoy/gps_ws/build
 
 # Utility rule file for ublox_msgs_genpy.
 
@@ -63,10 +63,10 @@ GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/build: ublox_ms
 .PHONY : GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/build
 
 GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/clean:
-	cd /home/kauvoyai/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs && $(CMAKE_COMMAND) -P CMakeFiles/ublox_msgs_genpy.dir/cmake_clean.cmake
+	cd /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs && $(CMAKE_COMMAND) -P CMakeFiles/ublox_msgs_genpy.dir/cmake_clean.cmake
 .PHONY : GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/clean
 
 GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/depend:
-	cd /home/kauvoyai/gps_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kauvoyai/gps_ws/src /home/kauvoyai/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs /home/kauvoyai/gps_ws/build /home/kauvoyai/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs /home/kauvoyai/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kauvoy/gps_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kauvoy/gps_ws/src /home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs /home/kauvoy/gps_ws/build /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : GPS_Package/ublox_f9p/ublox_msgs/CMakeFiles/ublox_msgs_genpy.dir/depend
 

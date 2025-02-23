@@ -1,8 +1,8 @@
-# Install script for directory: /home/kauvoyai/gps_ws/src/GPS_Package/gps_package_launch
+# Install script for directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_package_launch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/kauvoyai/gps_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kauvoy/gps_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoyai/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launch.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kauvoy/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launch.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_package_launch/cmake" TYPE FILE FILES
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launchConfig.cmake"
-    "/home/kauvoyai/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launchConfig-version.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launchConfig.cmake"
+    "/home/kauvoy/gps_ws/build/GPS_Package/gps_package_launch/catkin_generated/installspace/gps_package_launchConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_package_launch" TYPE FILE FILES "/home/kauvoyai/gps_ws/src/GPS_Package/gps_package_launch/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gps_package_launch" TYPE FILE FILES "/home/kauvoy/gps_ws/src/GPS_Package/gps_package_launch/package.xml")
 endif()
 

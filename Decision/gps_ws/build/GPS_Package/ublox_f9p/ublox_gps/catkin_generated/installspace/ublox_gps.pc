@@ -1,4 +1,4 @@
-prefix=/home/kauvoyai/gps_ws/install
+prefix=/home/kauvoy/gps_ws/install
 
 Name: ublox_gps
 Description: Description of ublox_gps

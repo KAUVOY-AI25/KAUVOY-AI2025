@@ -6,29 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/control_cmd_node.cpp
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/control_cmd_node.cpp
 ros/ros.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/ros/ros.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/ros/ros.h
 std_msgs/String.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/String.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/String.h
 std_msgs/Int16.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Int16.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Int16.h
 std_msgs/Int8.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Int8.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Int8.h
 std_msgs/Float32.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Float32.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/std_msgs/Float32.h
 geometry_msgs/Twist.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/Twist.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/Twist.h
 geometry_msgs/PoseStamped.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/PoseStamped.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/PoseStamped.h
 geometry_msgs/Pose2D.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/Pose2D.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/geometry_msgs/Pose2D.h
 tf2_geometry_msgs/tf2_geometry_msgs.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/tf2_geometry_msgs/tf2_geometry_msgs.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/tf2_geometry_msgs/tf2_geometry_msgs.h
 nav_msgs/Odometry.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/nav_msgs/Odometry.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/nav_msgs/Odometry.h
 nav_msgs/Path.h
-/home/kauvoyai/gps_ws/src/GPS_Package/control_cmd_pkg/src/nav_msgs/Path.h
+/home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg/src/nav_msgs/Path.h
 math.h
 -
 visualization_msgs/MarkerArray.h
@@ -667,6 +667,8 @@ ros/init.h
 /opt/ros/noetic/include/ros/ros/init.h
 common.h
 /opt/ros/noetic/include/ros/common.h
+boost/bind.hpp
+-
 xmlrpcpp/XmlRpcValue.h
 -
 
@@ -711,7 +713,7 @@ ros/message.h
 /opt/ros/noetic/include/ros/ros/message.h
 ros/serialization.h
 /opt/ros/noetic/include/ros/ros/serialization.h
-boost/bind/bind.hpp
+boost/bind.hpp
 -
 boost/thread/mutex.hpp
 -
