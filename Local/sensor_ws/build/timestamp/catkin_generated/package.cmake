@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "timestamp")
-set(timestamp_VERSION "0.0.0")
-set(timestamp_MAINTAINER "kauvoy <kauvoy@todo.todo>")
-set(timestamp_PACKAGE_FORMAT "2")
-set(timestamp_BUILD_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(timestamp_BUILD_EXPORT_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(timestamp_BUILDTOOL_DEPENDS "catkin")
-set(timestamp_BUILDTOOL_EXPORT_DEPENDS )
-set(timestamp_EXEC_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(timestamp_RUN_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(timestamp_TEST_DEPENDS )
-set(timestamp_DOC_DEPENDS )
-set(timestamp_URL_WEBSITE "")
-set(timestamp_URL_BUGTRACKER "")
-set(timestamp_URL_REPOSITORY "")
-set(timestamp_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:7de97d57d5fb773758611d8f0535785663ef20ac038d2e133ba8a4efacb5198e
+size 676

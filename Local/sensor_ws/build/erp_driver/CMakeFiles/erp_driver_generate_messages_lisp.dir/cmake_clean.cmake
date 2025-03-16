@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/share/common-lisp/ros/erp_driver/msg/erpCmdMsg.lisp"
-  "/home/kauvoy/sensor_ws/devel/share/common-lisp/ros/erp_driver/msg/erpStatusMsg.lisp"
-  "CMakeFiles/erp_driver_generate_messages_lisp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/erp_driver_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e0f55fdfcd2d6ba333f7621a34a242f115f43b5abe460fec23316f0618b794
+size 421

@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_erp_driver_generate_messages_check_deps_erpStatusMsg"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_erp_driver_generate_messages_check_deps_erpStatusMsg.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2d7237e8a556f28a292df11c79641ea89d0ffd4de6839813926c9d701fc62f
+size 288

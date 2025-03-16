@@ -1,5 +1,3 @@
-# generated from catkin/cmake/template/order_packages.context.py.in
-source_root_dir = '/home/kauvoy/sensor_ws/src'
-whitelisted_packages = ''.split(';') if '' != '' else []
-blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/kauvoy/sensor_ws/devel;/home/kauvoy/trackrace/devel;/home/kauvoy/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/kauvoy/sensor_ws/devel;/home/kauvoy/trackrace/devel;/home/kauvoy/catkin_ws/devel;/opt/ros/noetic' != '' else []
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e57de413d4c1e3810e19d819c2c1880d581e23292a3255728f340091f7422f
+size 431

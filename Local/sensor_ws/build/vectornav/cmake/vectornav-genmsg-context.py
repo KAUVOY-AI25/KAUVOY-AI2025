@@ -1,11 +1,3 @@
-# generated from genmsg/cmake/pkg-genmsg.context.in
-
-messages_str = "/home/kauvoy/sensor_ws/src/vectornav/msg/Ins.msg"
-services_str = ""
-pkg_name = "vectornav"
-dependencies_str = "std_msgs"
-langs = "gencpp;geneus;genlisp;gennodejs;genpy"
-dep_include_paths_str = "vectornav;/home/kauvoy/sensor_ws/src/vectornav/msg;std_msgs;/opt/ros/noetic/share/std_msgs/cmake/../msg"
-PYTHON_EXECUTABLE = "/home/kauvoy/.conda/envs/main/bin/python3"
-package_has_static_sources = '' == 'TRUE'
-genmsg_check_deps_script = "/opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"
+version https://git-lfs.github.com/spec/v1
+oid sha256:284789811033c5f67e71d3e1f6d90954a450635b7ed1cf7cbe2d198e5138a05b
+size 579

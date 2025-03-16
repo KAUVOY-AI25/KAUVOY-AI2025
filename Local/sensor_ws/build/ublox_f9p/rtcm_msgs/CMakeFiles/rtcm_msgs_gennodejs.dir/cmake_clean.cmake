@@ -1,5 +1,3 @@
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_gennodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:be2b2f634f859d5cc5f8b1f855c7b8c93d7b96848227769de8921b0aea8d0b20
+size 163

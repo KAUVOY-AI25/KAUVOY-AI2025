@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/devel
-
-Name: robot_localization
-Description: Description of robot_localization
-Version: 2.7.7
-Cflags: -I/home/kauvoy/sensor_ws/devel/include -I/home/kauvoy/sensor_ws/src/robot_localization/include -I/usr/include/eigen3 -I/usr/include
-Libs: -L${prefix}/lib -lekf -lekf_localization_nodelet -lfilter_base -lfilter_utilities -lnavsat_transform -lnavsat_transform_nodelet -lros_filter -lros_filter_utilities -lrobot_localization_estimator -lros_robot_localization_listener -lukf -lukf_localization_nodelet /usr/lib/x86_64-linux-gnu/libGeographic.so -lyaml-cpp
-Requires: angles cmake_modules diagnostic_msgs diagnostic_updater eigen_conversions geographic_msgs geometry_msgs message_filters message_runtime nav_msgs roscpp sensor_msgs std_msgs std_srvs tf2 tf2_geometry_msgs tf2_ros
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe5d746a92ffd0eb15f962bfad87427b4df788433de762116145eac17ad8c397
+size 808

@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/devel
-
-Name: ntrip_ros
-Description: Description of ntrip_ros
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4a505ea242bc6b177ab041683e6aa9c73a9318377fb73c4ba8eab3b5e9fa3ed
+size 149

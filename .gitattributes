@@ -1,0 +1,6 @@
+Local/sensor_ws/devel/** filter=lfs diff=lfs merge=lfs -text
+Local/sensor_ws/build/** filter=lfs diff=lfs merge=lfs -text
+Decision/gps_ws/build/** filter=lfs diff=lfs merge=lfs -text
+Decision/gps_ws/devel/** filter=lfs diff=lfs merge=lfs -text
+Track[[:space:]]Race/track_ws/devel/** filter=lfs diff=lfs merge=lfs -text
+Track[[:space:]]Race/track_ws/build/** filter=lfs diff=lfs merge=lfs -text

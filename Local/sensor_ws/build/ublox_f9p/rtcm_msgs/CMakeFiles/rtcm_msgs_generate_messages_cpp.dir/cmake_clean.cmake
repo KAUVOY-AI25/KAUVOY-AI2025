@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/include/rtcm_msgs/Message.h"
-  "CMakeFiles/rtcm_msgs_generate_messages_cpp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f31ae939fd8a3b112fada62f9b6b456982d1490eb9820098436de8c299e90b6
+size 305

@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.installspace.in
-
-_prepend_path("${robot_localization_DIR}/.." "" robot_localization_MSG_INCLUDE_DIRS UNIQUE)
-set(robot_localization_MSG_DEPENDENCIES geographic_msgs;geometry_msgs;std_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e023bc8fe35d02ee6b539ba687f72d520dfdf4769066568f8201b2bf29d6db
+size 239

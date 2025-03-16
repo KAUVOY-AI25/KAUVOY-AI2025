@@ -1,20 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(PORTID-VAL
-          PORTID
-          RESERVED0-VAL
-          RESERVED0
-          TXREADY-VAL
-          TXREADY
-          MODE-VAL
-          MODE
-          BAUDRATE-VAL
-          BAUDRATE
-          INPROTOMASK-VAL
-          INPROTOMASK
-          OUTPROTOMASK-VAL
-          OUTPROTOMASK
-          FLAGS-VAL
-          FLAGS
-          RESERVED1-VAL
-          RESERVED1
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:71b9b05a776d019e7d1937be8c595ad93e4216f778e182108ab3077fdc443cd0
+size 412

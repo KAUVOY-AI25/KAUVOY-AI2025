@@ -1,6 +1,3 @@
-(cl:in-package robot_localization-srv)
-(cl:export '(LL_POINT-VAL
-          LL_POINT
-          MAP_POINT-VAL
-          MAP_POINT
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:811ae16aeb3431aaf40ebaade8e4c2bcfe5491da82b56a929ab9768b3632e0e2
+size 130

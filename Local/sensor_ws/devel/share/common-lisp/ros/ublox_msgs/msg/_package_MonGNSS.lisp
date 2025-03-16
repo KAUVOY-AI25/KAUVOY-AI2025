@@ -1,14 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(VERSION-VAL
-          VERSION
-          SUPPORTED-VAL
-          SUPPORTED
-          DEFAULTGNSS-VAL
-          DEFAULTGNSS
-          ENABLED-VAL
-          ENABLED
-          SIMULTANEOUS-VAL
-          SIMULTANEOUS
-          RESERVED1-VAL
-          RESERVED1
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:219947937a34397eb95200753fefa48853fd7cb4a9aa176cf715647013580552
+size 302

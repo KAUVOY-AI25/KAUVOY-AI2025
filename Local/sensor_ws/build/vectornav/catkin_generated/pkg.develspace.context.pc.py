@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/kauvoy/sensor_ws/devel/include".split(';') if "/home/kauvoy/sensor_ws/devel/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "roscpp;sensor_msgs".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "vectornav"
-PROJECT_SPACE_DIR = "/home/kauvoy/sensor_ws/devel"
-PROJECT_VERSION = "2.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e00d4baf3185ac5d97fb13b563547ae02ca807216e380871083e7202d856b62
+size 461

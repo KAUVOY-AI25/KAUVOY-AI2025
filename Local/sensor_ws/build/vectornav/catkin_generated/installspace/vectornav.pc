@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/install
-
-Name: vectornav
-Description: Description of vectornav
-Version: 2.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp sensor_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:833f601f266a99bbacf894303193c8f66eb743603b3b7c3463c84d4927eaa1c8
+size 188

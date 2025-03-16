@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/run_tests_robot_localization_rostest_test_test_ukf_localization_node_bag2.test"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/run_tests_robot_localization_rostest_test_test_ukf_localization_node_bag2.test.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b15cc9547b93e539529cd4055975c9eb7e708fa31844cb999261602270533e
+size 338

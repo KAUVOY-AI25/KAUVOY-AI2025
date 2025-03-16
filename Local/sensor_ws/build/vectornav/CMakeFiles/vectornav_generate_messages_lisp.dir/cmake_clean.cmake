@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/share/common-lisp/ros/vectornav/msg/Ins.lisp"
-  "CMakeFiles/vectornav_generate_messages_lisp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/vectornav_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:f69954462ea150ed1a05812d17aa40590ab3966d94752cd3e2da41bb9e0b1e9f
+size 324

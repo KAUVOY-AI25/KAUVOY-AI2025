@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/devel
-
-Name: timestamp
-Description: Description of timestamp
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f666fd1d2c2eaf2b33dc3e072d66027ab0e1bc4bd5cf341b85f30f66c8cd7a7f
+size 149

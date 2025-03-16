@@ -1,12 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(VERSION-VAL
-          VERSION
-          FLAGS-VAL
-          FLAGS
-          RESERVED0-VAL
-          RESERVED0
-          REFSTATION-VAL
-          REFSTATION
-          MSGTYPE-VAL
-          MSGTYPE
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:057751600a4dea2907d27dad6379eb50198a5795f82dca342ab3ca1098ee50a7
+size 242

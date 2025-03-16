@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "odom_encoder")
-set(odom_encoder_VERSION "0.0.0")
-set(odom_encoder_MAINTAINER "kauvoy <kauvoy@todo.todo>")
-set(odom_encoder_PACKAGE_FORMAT "2")
-set(odom_encoder_BUILD_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(odom_encoder_BUILD_EXPORT_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(odom_encoder_BUILDTOOL_DEPENDS "catkin")
-set(odom_encoder_BUILDTOOL_EXPORT_DEPENDS )
-set(odom_encoder_EXEC_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(odom_encoder_RUN_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(odom_encoder_TEST_DEPENDS )
-set(odom_encoder_DOC_DEPENDS )
-set(odom_encoder_URL_WEBSITE "")
-set(odom_encoder_URL_BUGTRACKER "")
-set(odom_encoder_URL_REPOSITORY "")
-set(odom_encoder_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d3846532cc937d1115fd57e91a3b8a7410d72cd7c5a3924207b2845fba8f495
+size 724

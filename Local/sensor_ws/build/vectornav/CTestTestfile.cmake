@@ -1,7 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/vectornav
-# Build directory: /home/kauvoy/sensor_ws/build/vectornav
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-subdirs("vnproglib-1.2.0.0/cpp")
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef20c7949696cbc477e8c2c6d1a76389a79bbb9ba4015ca5df6c7dd21103ee5
+size 320

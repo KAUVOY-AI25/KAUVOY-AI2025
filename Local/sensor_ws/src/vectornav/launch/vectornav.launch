@@ -6,11 +6,15 @@
 	
 	<param name="frame_id" value="$(arg frame_id)"/>
 	  
-	  <!--  추가한 코드 -->
+	  <!--  추가한 코드  -->
 	  <param name="frame_id" value="base_link"/>
   	  <node pkg="tf" type="static_transform_publisher"
-  	  name="vectornav_to_base_link" args="0 0 0 0 0 0 vectornav base_link 100" /> 
+  	  name="vectornav_to_base_link" args="0 0 0 0 0 0 vectornav base_link 100" />
 
+
+	<!-- 테스트 
+	<node pkg="tf" type="static_transform_publisher" name="vectornav_to_base_link" args="0 0 0 3.1416 0 1.5708 vectornav base_link 100" />
+	-->
       <rosparam command="load" file="$(find vectornav)/params/vn100.yaml" />
 	</node>	
 	

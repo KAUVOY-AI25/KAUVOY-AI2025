@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="imu_calibration" 
+          type="imu_calibration.py" 
+          name="imu_calibration" 
+          output="screen"/>
+
+</launch>

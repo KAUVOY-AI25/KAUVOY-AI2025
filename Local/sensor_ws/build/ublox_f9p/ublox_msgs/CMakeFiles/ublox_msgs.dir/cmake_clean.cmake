@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/libublox_msgs.pdb"
-  "/home/kauvoy/sensor_ws/devel/lib/libublox_msgs.so"
-  "CMakeFiles/ublox_msgs.dir/src/ublox_msgs.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/ublox_msgs.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:b14488814a06502770a60f444a712faab36ecb01f03b2ea1b93efe80e0654153
+size 339

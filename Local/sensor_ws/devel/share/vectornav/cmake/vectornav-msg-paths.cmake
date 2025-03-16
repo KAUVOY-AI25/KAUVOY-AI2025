@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
-
-set(vectornav_MSG_INCLUDE_DIRS "/home/kauvoy/sensor_ws/src/vectornav/msg")
-set(vectornav_MSG_DEPENDENCIES std_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4dcb55373e995e63ebff77ad676e8ffe33f55d4d35f01b718efbd847724b84f
+size 181

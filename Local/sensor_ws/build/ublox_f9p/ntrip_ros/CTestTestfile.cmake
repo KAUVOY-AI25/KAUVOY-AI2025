@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/ublox_f9p/ntrip_ros
-# Build directory: /home/kauvoy/sensor_ws/build/ublox_f9p/ntrip_ros
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc511aa059a27909e7aeccbb41b16cafe34da7d7904f16b268eec6ec19fcb1b
+size 307

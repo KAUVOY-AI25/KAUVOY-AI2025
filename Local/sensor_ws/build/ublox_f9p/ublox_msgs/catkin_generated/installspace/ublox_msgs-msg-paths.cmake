@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.installspace.in
-
-_prepend_path("${ublox_msgs_DIR}/.." "msg" ublox_msgs_MSG_INCLUDE_DIRS UNIQUE)
-set(ublox_msgs_MSG_DEPENDENCIES std_msgs;sensor_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:de5694412d8f7f762172f9591803194c550e2cbb687e6aaef0c703c4bf1d7af3
+size 200

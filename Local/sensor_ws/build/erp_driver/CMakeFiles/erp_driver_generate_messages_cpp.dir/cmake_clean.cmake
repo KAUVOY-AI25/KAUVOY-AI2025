@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/include/erp_driver/erpCmdMsg.h"
-  "/home/kauvoy/sensor_ws/devel/include/erp_driver/erpStatusMsg.h"
-  "CMakeFiles/erp_driver_generate_messages_cpp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/erp_driver_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed9eba6da00677fdecc13b7dd731b373b0e28bcefa53e1fd02b3eb6e4196414
+size 377

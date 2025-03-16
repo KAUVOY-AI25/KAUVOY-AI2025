@@ -1,2 +1,3 @@
-set(rtcm_msgs_MESSAGE_FILES "/home/kauvoy/sensor_ws/src/ublox_f9p/rtcm_msgs/msg/Message.msg")
-set(rtcm_msgs_SERVICE_FILES "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:711d8ffed367d37143b125267f65f24e8b5d87e20ef9a22fd9650cf0abf40309
+size 126

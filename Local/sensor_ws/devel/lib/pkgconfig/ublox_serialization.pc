@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/devel
-
-Name: ublox_serialization
-Description: Description of ublox_serialization
-Version: 1.1.2
-Cflags: -I/home/kauvoy/sensor_ws/src/ublox_f9p/ublox_serialization/include
-Libs: -L${prefix}/lib 
-Requires: roscpp roscpp_serialization
+version https://git-lfs.github.com/spec/v1
+oid sha256:10cd5985c35958b286046e0599413240c832d916617974bed8f0e9fadfa7ac9e
+size 262

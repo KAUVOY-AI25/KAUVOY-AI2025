@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/encoder_dataset
-# Build directory: /home/kauvoy/sensor_ws/build/encoder_dataset
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a35365f2ef084c547314edd4512cdb3e67c0e9fd448d5b89860f9de7a926818
+size 299

@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "${prefix}/include".split(';') if "${prefix}/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "roscpp;roscpp_serialization".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "ublox_serialization"
-PROJECT_SPACE_DIR = "/home/kauvoy/sensor_ws/install"
-PROJECT_VERSION = "1.1.2"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d6953e54d7dc30365eeac8ae1068a391d4d1fdc8e25777d834aee4f1412e4b0
+size 444

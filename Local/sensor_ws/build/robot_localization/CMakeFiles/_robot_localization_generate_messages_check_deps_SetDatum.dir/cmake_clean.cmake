@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_robot_localization_generate_messages_check_deps_SetDatum"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_robot_localization_generate_messages_check_deps_SetDatum.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:480d1e3d2eef52c4b60d6c79fd2aed2ec685bb174397b70c8a4d16788be01a8e
+size 296

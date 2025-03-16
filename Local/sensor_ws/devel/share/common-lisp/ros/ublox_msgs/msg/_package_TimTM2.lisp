@@ -1,22 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(CH-VAL
-          CH
-          FLAGS-VAL
-          FLAGS
-          RISINGEDGECOUNT-VAL
-          RISINGEDGECOUNT
-          WNR-VAL
-          WNR
-          WNF-VAL
-          WNF
-          TOWMSR-VAL
-          TOWMSR
-          TOWSUBMSR-VAL
-          TOWSUBMSR
-          TOWMSF-VAL
-          TOWMSF
-          TOWSUBMSF-VAL
-          TOWSUBMSF
-          ACCEST-VAL
-          ACCEST
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a274e1ec8ef6b3e7e37a8a2da2cb8829ba392dc67f135f20e9cafed7710aad7
+size 424

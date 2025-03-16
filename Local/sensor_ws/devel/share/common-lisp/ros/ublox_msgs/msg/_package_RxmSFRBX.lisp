@@ -1,20 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(GNSSID-VAL
-          GNSSID
-          SVID-VAL
-          SVID
-          RESERVED0-VAL
-          RESERVED0
-          FREQID-VAL
-          FREQID
-          NUMWORDS-VAL
-          NUMWORDS
-          CHN-VAL
-          CHN
-          VERSION-VAL
-          VERSION
-          RESERVED1-VAL
-          RESERVED1
-          DWRD-VAL
-          DWRD
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:34874b02f7dc8776a2474107772ae3bed339da4e118e907232c4d58308dc1817
+size 382

@@ -1,11 +1,3 @@
-
-(cl:in-package :asdf)
-
-(defsystem "erp_driver-msg"
-  :depends-on (:roslisp-msg-protocol :roslisp-utils )
-  :components ((:file "_package")
-    (:file "erpCmdMsg" :depends-on ("_package_erpCmdMsg"))
-    (:file "_package_erpCmdMsg" :depends-on ("_package"))
-    (:file "erpStatusMsg" :depends-on ("_package_erpStatusMsg"))
-    (:file "_package_erpStatusMsg" :depends-on ("_package"))
-  ))
+version https://git-lfs.github.com/spec/v1
+oid sha256:14dc66cf1c6ec3a2d8cdffc1782df372b7d92ceaa5c5c0d4cd5505646f3060df
+size 387
