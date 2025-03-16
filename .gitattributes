@@ -9,3 +9,4 @@ Vision/vision_backup/vission_ws/src/yolov9_ros/*.pt filter=lfs diff=lfs merge=lf
 =======
 >>>>>>> 9737871321b37ae363e74be1c9f86ac8d6b79ade
 Vision/vision_backup/vission_ws/src/yolov9_ros.zip filter=lfs diff=lfs merge=lfs -text
+Vision/vision_backup/vs_ws/src/lidar_camera_calibration/bagfiles/*.bag filter=lfs diff=lfs merge=lfs -text
