@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/install
-
-Name: control_cmd_pkg
-Description: Description of control_cmd_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5146209ee34d7b70e18819f00be5ed1be1bab36e21c7c9c2e4e98c769c673f9c
+size 160

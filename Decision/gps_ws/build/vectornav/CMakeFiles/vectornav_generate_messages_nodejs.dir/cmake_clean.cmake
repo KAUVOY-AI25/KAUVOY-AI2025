@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/gennodejs/ros/vectornav/msg/Ins.js"
-  "CMakeFiles/vectornav_generate_messages_nodejs"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/vectornav_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:93013b866e0e1dfabff25c0c03ad99df32e0d668e7f459bc2384423150d0b654
+size 321

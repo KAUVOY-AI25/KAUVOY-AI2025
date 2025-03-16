@@ -1,10 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(SENSSTATUS1-VAL
-          SENSSTATUS1
-          SENSSTATUS2-VAL
-          SENSSTATUS2
-          FREQ-VAL
-          FREQ
-          FAULTS-VAL
-          FAULTS
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab94c6cde4dab9bf2a8ed4a3a6cb56deff0aedfc78dbce8b473dd08685fbc802
+size 204

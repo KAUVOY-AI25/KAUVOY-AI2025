@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_package_launch
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/gps_package_launch
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efe2a7b7e53308bffc65ada6c49ea5887b40635fbaed4d3cafd4a867387a87a
+size 323

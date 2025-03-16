@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: waypoint_car_steering_control
-Description: Description of waypoint_car_steering_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs roscpp rospy std_msgs tf2_geometry_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:89d6026064f77b9ac114096c721b3f282381d2b152849ba26804e4c01e247c2e
+size 239

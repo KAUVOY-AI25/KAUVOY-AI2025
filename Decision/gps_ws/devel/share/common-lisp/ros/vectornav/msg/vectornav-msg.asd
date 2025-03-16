@@ -1,10 +1,3 @@
-
-(cl:in-package :asdf)
-
-(defsystem "vectornav-msg"
-  :depends-on (:roslisp-msg-protocol :roslisp-utils :std_msgs-msg
-)
-  :components ((:file "_package")
-    (:file "Ins" :depends-on ("_package_Ins"))
-    (:file "_package_Ins" :depends-on ("_package"))
-  ))
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb59ba5d9e234c01a374b987b4d08b6086220c57fbb0859a53452f59befe5ef1
+size 256

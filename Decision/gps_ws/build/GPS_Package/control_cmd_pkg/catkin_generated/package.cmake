@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "control_cmd_pkg")
-set(control_cmd_pkg_VERSION "0.0.0")
-set(control_cmd_pkg_MAINTAINER "kauvoy2 <kauvoy2@todo.todo>")
-set(control_cmd_pkg_PACKAGE_FORMAT "2")
-set(control_cmd_pkg_BUILD_DEPENDS "roscpp" "geometry_msgs" "nav_msgs" "sensor_msgs" "std_msgs" "tf2_geometry_msgs")
-set(control_cmd_pkg_BUILD_EXPORT_DEPENDS "geometry_msgs" "nav_msgs" "sensor_msgs" "std_msgs" "tf2_geometry_msgs")
-set(control_cmd_pkg_BUILDTOOL_DEPENDS "catkin")
-set(control_cmd_pkg_BUILDTOOL_EXPORT_DEPENDS )
-set(control_cmd_pkg_EXEC_DEPENDS "geometry_msgs" "nav_msgs" "sensor_msgs" "std_msgs" "tf2_geometry_msgs")
-set(control_cmd_pkg_RUN_DEPENDS "geometry_msgs" "nav_msgs" "sensor_msgs" "std_msgs" "tf2_geometry_msgs")
-set(control_cmd_pkg_TEST_DEPENDS )
-set(control_cmd_pkg_DOC_DEPENDS )
-set(control_cmd_pkg_URL_WEBSITE "")
-set(control_cmd_pkg_URL_BUGTRACKER "")
-set(control_cmd_pkg_URL_REPOSITORY "")
-set(control_cmd_pkg_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:f342c113c67d20ed1dd39dda6759da268a16b16ab5b9840b4e75d771559676f9
+size 939

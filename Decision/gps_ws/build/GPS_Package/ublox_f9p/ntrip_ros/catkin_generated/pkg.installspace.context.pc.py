@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
-PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "ntrip_ros"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/install"
-PROJECT_VERSION = "0.0.1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dddfa2fed464aeb84166b08c9f56bbb7d31943862fb6ef9b769d39eb5e2d547
+size 370

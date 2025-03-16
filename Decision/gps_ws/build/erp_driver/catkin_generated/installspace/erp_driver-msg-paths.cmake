@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.installspace.in
-
-_prepend_path("${erp_driver_DIR}/.." "msg" erp_driver_MSG_INCLUDE_DIRS UNIQUE)
-set(erp_driver_MSG_DEPENDENCIES std_msgs;sensor_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c6a278ef05f244e9846d301e073bf52e7e3a0a511fece7e544c5316b4932e3
+size 200

@@ -1,18 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(ITOW-VAL
-          ITOW
-          GEO-VAL
-          GEO
-          MODE-VAL
-          MODE
-          SYS-VAL
-          SYS
-          SERVICE-VAL
-          SERVICE
-          CNT-VAL
-          CNT
-          RESERVED0-VAL
-          RESERVED0
-          SV-VAL
-          SV
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:2083f50d8a11c20c08c9305263664b141085ae4f2f8292e9aa1d929f231399d2
+size 314

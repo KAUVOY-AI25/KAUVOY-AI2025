@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: waypoint_rviz_display
-Description: Description of waypoint_rviz_display
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs visualization_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5a87291d803aa6d9608e0a48ac636ffcea544530b7593f7709cb84369efa73
+size 210

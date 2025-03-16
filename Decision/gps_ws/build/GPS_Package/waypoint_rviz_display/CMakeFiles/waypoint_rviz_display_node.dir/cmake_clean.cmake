@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node"
-  "/home/kauvoy/gps_ws/devel/lib/waypoint_rviz_display/waypoint_rviz_display_node.pdb"
-  "CMakeFiles/waypoint_rviz_display_node.dir/src/waypoints_rviz_display.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/waypoint_rviz_display_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff79765adad909e05c8e8fbc21c540ce5984e8415eefe2a63c7a32d09a9e38f7
+size 444

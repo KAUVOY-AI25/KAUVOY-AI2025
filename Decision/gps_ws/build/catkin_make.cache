@@ -1,2 +1,3 @@
-GPS_Package/control_cmd_pkg:GPS_Package/geonav_transform:GPS_Package/gps_datum_pub:GPS_Package/gps_msgs_package:GPS_Package/gps_odom:GPS_Package/gps_package_launch:GPS_Package/ublox_f9p/ntrip_ros:GPS_Package/ublox_f9p/rtcm_msgs:GPS_Package/ublox_f9p/ublox:GPS_Package/ublox_f9p/ublox_gps:GPS_Package/ublox_f9p/ublox_msgs:GPS_Package/ublox_f9p/ublox_serialization:GPS_Package/waypoint_car_steering_control:GPS_Package/waypoint_rviz_display:GPS_Package/waypoints_move:erp_driver:vectornav
--DCATKIN_DEVEL_PREFIX=/home/kauvoy/gps_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kauvoy/gps_ws/install -G Unix Makefiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:37c6945be2af524c14d93bd93425666d993c6b7fa5701b7bbe92ee355e2a0eb2
+size 603

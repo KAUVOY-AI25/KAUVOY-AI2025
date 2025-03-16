@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
-PROJECT_CATKIN_DEPENDS = "geometry_msgs;roscpp;rospy;sensor_msgs;std_msgs;nav_msgs;tf".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "gps_msgs_package"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:aae72b7700e55b46ea3127b7803bcdd789d9c3d31d0019292bc3291c63f2f367
+size 434

@@ -1,18 +1,3 @@
-(cl:in-package erp_driver-msg)
-(cl:export '(CONTROL_MODE-VAL
-          CONTROL_MODE
-          E_STOP-VAL
-          E_STOP
-          GEAR-VAL
-          GEAR
-          SPEED-VAL
-          SPEED
-          STEER-VAL
-          STEER
-          BRAKE-VAL
-          BRAKE
-          ENCODER-VAL
-          ENCODER
-          ALIVE-VAL
-          ALIVE
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:a643295b1b6d90c4406cbf8ef4c436ab012b483c2608892bff834de34d7f6a97
+size 342

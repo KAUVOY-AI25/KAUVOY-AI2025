@@ -1,11 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/ublox_gps/ublox_gps"
-  "/home/kauvoy/gps_ws/devel/lib/ublox_gps/ublox_gps.pdb"
-  "CMakeFiles/ublox_gps_node.dir/src/mkgmtime.c.o"
-  "CMakeFiles/ublox_gps_node.dir/src/node.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
-  include(CMakeFiles/ublox_gps_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e772a845878e7fba0d2701fc9814b8069c8fe4bb513f666774c0e6cd7fad474
+size 397

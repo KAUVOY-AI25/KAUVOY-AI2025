@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/libublox_gps.pdb"
-  "/home/kauvoy/gps_ws/devel/lib/libublox_gps.so"
-  "CMakeFiles/ublox_gps.dir/src/gps.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/ublox_gps.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1476390d6cd4e1088be2fddbd8731025b6ad8405c934761b1d3d66439d5ea7c
+size 322

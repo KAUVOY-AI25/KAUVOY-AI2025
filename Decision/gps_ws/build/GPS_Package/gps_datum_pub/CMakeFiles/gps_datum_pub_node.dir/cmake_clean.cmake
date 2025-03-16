@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node"
-  "/home/kauvoy/gps_ws/devel/lib/gps_datum_pub/gps_datum_pub_node.pdb"
-  "CMakeFiles/gps_datum_pub_node.dir/src/gps_datum_pub.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/gps_datum_pub_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec524cb4ba68c2c8c1e50bf304a78f2cdbb7c78600bd782a6cd95e432f5c08d7
+size 387

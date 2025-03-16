@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "gps_package_launch")
-set(gps_package_launch_VERSION "0.0.0")
-set(gps_package_launch_MAINTAINER "amap <amap@todo.todo>")
-set(gps_package_launch_PACKAGE_FORMAT "2")
-set(gps_package_launch_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
-set(gps_package_launch_BUILD_EXPORT_DEPENDS "roscpp" "rospy" "std_msgs")
-set(gps_package_launch_BUILDTOOL_DEPENDS "catkin")
-set(gps_package_launch_BUILDTOOL_EXPORT_DEPENDS )
-set(gps_package_launch_EXEC_DEPENDS "roscpp" "rospy" "std_msgs")
-set(gps_package_launch_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
-set(gps_package_launch_TEST_DEPENDS )
-set(gps_package_launch_DOC_DEPENDS )
-set(gps_package_launch_URL_WEBSITE "")
-set(gps_package_launch_URL_BUGTRACKER "")
-set(gps_package_launch_URL_REPOSITORY "")
-set(gps_package_launch_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:842f5f27f83795c4e135815c4741152e5fd7be48d8e5191702a07f502d5fe1b8
+size 796

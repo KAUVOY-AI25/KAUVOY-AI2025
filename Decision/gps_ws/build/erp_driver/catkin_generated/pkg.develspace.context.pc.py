@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/kauvoy/gps_ws/devel/include".split(';') if "/home/kauvoy/gps_ws/devel/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "rospy;message_runtime".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "erp_driver"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90bee7c77ffd8cb2d5fc678db4143558702724f9c6f429d7b95707f20251f43
+size 456

@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/control_cmd_pkg
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/control_cmd_pkg
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:367d2842f42c245226d2687a0dc317f9a0b2974a83f93f7a28cad0eb0ca7c64a
+size 317

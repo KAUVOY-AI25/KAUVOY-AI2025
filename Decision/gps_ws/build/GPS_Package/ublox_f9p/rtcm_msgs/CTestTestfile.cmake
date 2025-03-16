@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/rtcm_msgs
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/rtcm_msgs
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d19df5bcb0cdc3fa582a077612b22e809bf0c9db5194221333ad0ca2014e99
+size 325

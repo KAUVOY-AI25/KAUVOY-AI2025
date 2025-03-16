@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/common-lisp/ros/rtcm_msgs/msg/Message.lisp"
-  "CMakeFiles/rtcm_msgs_generate_messages_lisp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:886c1fb1af38b15ffddc526ec1d212eea1217b4119f52525ca9a96a7d47e5bf7
+size 325

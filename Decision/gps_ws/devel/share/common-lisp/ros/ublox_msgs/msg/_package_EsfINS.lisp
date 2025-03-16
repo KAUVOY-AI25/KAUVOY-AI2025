@@ -1,20 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(BITFIELD0-VAL
-          BITFIELD0
-          RESERVED1-VAL
-          RESERVED1
-          ITOW-VAL
-          ITOW
-          XANGRATE-VAL
-          XANGRATE
-          YANGRATE-VAL
-          YANGRATE
-          ZANGRATE-VAL
-          ZANGRATE
-          XACCEL-VAL
-          XACCEL
-          YACCEL-VAL
-          YACCEL
-          ZACCEL-VAL
-          ZACCEL
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:428a831edf76bf551c13d31b51a60317f2540fbf7d730d0c9064c1643c17bcd4
+size 398

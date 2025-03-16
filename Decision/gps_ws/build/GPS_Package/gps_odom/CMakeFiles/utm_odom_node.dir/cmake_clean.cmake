@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/utm_to_odom/utm_odom_node"
-  "/home/kauvoy/gps_ws/devel/lib/utm_to_odom/utm_odom_node.pdb"
-  "CMakeFiles/utm_odom_node.dir/src/utm_odom.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/utm_odom_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:92e416e277283185b6b4849497f5df19207f7c46b256f1a57a179a138a9010c1
+size 358

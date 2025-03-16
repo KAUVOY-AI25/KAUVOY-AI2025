@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/gennodejs/ros/rtcm_msgs/msg/Message.js"
-  "CMakeFiles/rtcm_msgs_generate_messages_nodejs"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4f95172fc68ada5d21ac8330821dc999994f97ef71cf996fd8c92dec485fc8
+size 325

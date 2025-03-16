@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_odom
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/gps_odom
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb80433fe33063cc400aa8076fa74397689fb58558b27b8589e8cb66e344bf4
+size 303

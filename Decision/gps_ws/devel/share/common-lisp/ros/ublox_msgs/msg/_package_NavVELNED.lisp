@@ -1,20 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(ITOW-VAL
-          ITOW
-          VELN-VAL
-          VELN
-          VELE-VAL
-          VELE
-          VELD-VAL
-          VELD
-          SPEED-VAL
-          SPEED
-          GSPEED-VAL
-          GSPEED
-          HEADING-VAL
-          HEADING
-          SACC-VAL
-          SACC
-          CACC-VAL
-          CACC
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:59200e3b0488f50474b936c5814be85f08a2584ee74ef8830a369129bd872900
+size 354

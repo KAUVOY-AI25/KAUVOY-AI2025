@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/waypoints_move
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/waypoints_move
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05cfd0407a422980b1b7887acd9e149430f98700a1cd1cd30ef5873be23ff7c8
+size 315

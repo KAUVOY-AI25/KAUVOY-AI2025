@@ -1,7 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/vectornav
-# Build directory: /home/kauvoy/gps_ws/build/vectornav
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-subdirs("vnproglib-1.2.0.0/cpp")
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f702780ca3e271b7849adfc727f44522690dcfe6e86eed9abf17010e241d4b8
+size 314
