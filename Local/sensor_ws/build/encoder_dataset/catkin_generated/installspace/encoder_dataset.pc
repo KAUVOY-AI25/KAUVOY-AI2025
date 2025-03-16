@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/install
-
-Name: encoder_dataset
-Description: Description of encoder_dataset
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:952627de27acf270c4fad560b3c9665fa0a6c6ab118a2f912118a49ccc598dc0
+size 163

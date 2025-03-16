@@ -1,16 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_FromLL.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_GetState.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_SetDatum.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_SetPose.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_SetUTMZone.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_ToLL.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/_ToggleFilterProcessing.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/robot_localization/srv/__init__.py"
-  "CMakeFiles/robot_localization_generate_messages_py"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/robot_localization_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad45a40006f0597783b30bc459c2dd5496d0a0b2e7e9be42e7887cd0db29461
+size 1028

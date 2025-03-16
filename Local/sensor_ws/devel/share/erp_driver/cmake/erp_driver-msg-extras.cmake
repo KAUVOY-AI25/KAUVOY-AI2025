@@ -1,2 +1,3 @@
-set(erp_driver_MESSAGE_FILES "/home/kauvoy/sensor_ws/src/erp_driver/msg/erpStatusMsg.msg;/home/kauvoy/sensor_ws/src/erp_driver/msg/erpCmdMsg.msg")
-set(erp_driver_SERVICE_FILES "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:89be5cee66cf6e269c551b98f0de212a4312e8f3641d81fe7d035e4a8f194d51
+size 180

@@ -1,20 +1,3 @@
-
-"use strict";
-
-let SetUTMZone = require('./SetUTMZone.js')
-let ToLL = require('./ToLL.js')
-let ToggleFilterProcessing = require('./ToggleFilterProcessing.js')
-let FromLL = require('./FromLL.js')
-let SetDatum = require('./SetDatum.js')
-let SetPose = require('./SetPose.js')
-let GetState = require('./GetState.js')
-
-module.exports = {
-  SetUTMZone: SetUTMZone,
-  ToLL: ToLL,
-  ToggleFilterProcessing: ToggleFilterProcessing,
-  FromLL: FromLL,
-  SetDatum: SetDatum,
-  SetPose: SetPose,
-  GetState: GetState,
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae25d974c63dd25e78366a0a1f6e44bf415dd834b4a63788f50543e72f87455
+size 509

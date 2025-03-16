@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/vectornav/msg/_Ins.py"
-  "/home/kauvoy/sensor_ws/devel/lib/python3/dist-packages/vectornav/msg/__init__.py"
-  "CMakeFiles/vectornav_generate_messages_py"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/vectornav_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae5319c7b2d0f26456fa1e4bcbd25a3263a758971ef5c77a46014db42aca00e
+size 408

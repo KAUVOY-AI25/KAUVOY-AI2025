@@ -1,7 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /usr/src/googletest
-# Build directory: /home/kauvoy/sensor_ws/build/gtest
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
-subdirs("googlemock")
+version https://git-lfs.github.com/spec/v1
+oid sha256:aadc8a4e3be5f5a9c9882d37a414604c58d89b65dc75621148c505fb5989b270
+size 288

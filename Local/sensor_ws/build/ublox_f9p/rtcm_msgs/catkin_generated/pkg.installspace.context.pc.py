@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "${prefix}/include".split(';') if "${prefix}/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "message_runtime;std_msgs".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "rtcm_msgs"
-PROJECT_SPACE_DIR = "/home/kauvoy/sensor_ws/install"
-PROJECT_VERSION = "1.1.6"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d43330747b9cb77b0064a83b13640d207a55127f563edbe7058398a15f170f5c
+size 431

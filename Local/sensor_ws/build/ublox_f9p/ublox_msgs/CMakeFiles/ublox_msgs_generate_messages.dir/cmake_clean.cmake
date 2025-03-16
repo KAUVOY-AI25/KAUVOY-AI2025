@@ -1,5 +1,3 @@
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/ublox_msgs_generate_messages.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:521b6a36b8829733565ee40402d26f64f7881d2717bd9fe1d4c0a265a91bfa8d
+size 172

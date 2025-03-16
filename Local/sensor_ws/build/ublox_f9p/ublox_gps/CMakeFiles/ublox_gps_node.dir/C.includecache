@@ -1,16 +1,3 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
-
-#IncludeRegexScan: ^.*$
-
-#IncludeRegexComplain: ^$
-
-#IncludeRegexTransform: 
-
-/home/kauvoy/sensor_ws/src/ublox_f9p/ublox_gps/include/ublox_gps/mkgmtime.h
-time.h
--
-
-/home/kauvoy/sensor_ws/src/ublox_f9p/ublox_gps/src/mkgmtime.c
-ublox_gps/mkgmtime.h
-/home/kauvoy/sensor_ws/src/ublox_f9p/ublox_gps/src/ublox_gps/mkgmtime.h
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad171727280d22f86b0b85731d28b46d477169f6f9e9fd4a8791b903f6127d8
+size 395

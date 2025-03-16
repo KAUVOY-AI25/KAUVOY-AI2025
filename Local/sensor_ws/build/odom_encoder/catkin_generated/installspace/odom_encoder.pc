@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/install
-
-Name: odom_encoder
-Description: Description of odom_encoder
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:dee1672681f08e8060ce05b644474ebc6adbb75b33fb229e5b49532da17b4687
+size 157

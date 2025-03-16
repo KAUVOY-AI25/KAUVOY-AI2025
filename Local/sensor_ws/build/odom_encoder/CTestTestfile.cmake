@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/odom_encoder
-# Build directory: /home/kauvoy/sensor_ws/build/odom_encoder
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8afe4c4203fa9993daf644fc90b09ff5e445595be2b2456c9aa625a0c86de07b
+size 293

@@ -1,12 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(ITOW-VAL
-          ITOW
-          ECEFVX-VAL
-          ECEFVX
-          ECEFVY-VAL
-          ECEFVY
-          ECEFVZ-VAL
-          ECEFVZ
-          SACC-VAL
-          SACC
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2cdaf2959be117c19ad7fbec442703d8619a4c4f3ec4ae7499e3e57598dbf4e
+size 218

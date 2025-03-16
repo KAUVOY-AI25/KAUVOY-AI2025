@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "encoder_dataset")
-set(encoder_dataset_VERSION "0.0.0")
-set(encoder_dataset_MAINTAINER "kauvoy <kauvoy@todo.todo>")
-set(encoder_dataset_PACKAGE_FORMAT "2")
-set(encoder_dataset_BUILD_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(encoder_dataset_BUILD_EXPORT_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(encoder_dataset_BUILDTOOL_DEPENDS "catkin")
-set(encoder_dataset_BUILDTOOL_EXPORT_DEPENDS )
-set(encoder_dataset_EXEC_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(encoder_dataset_RUN_DEPENDS "rospy" "sensor_msgs" "std_msgs")
-set(encoder_dataset_TEST_DEPENDS )
-set(encoder_dataset_DOC_DEPENDS )
-set(encoder_dataset_URL_WEBSITE "")
-set(encoder_dataset_URL_BUGTRACKER "")
-set(encoder_dataset_URL_REPOSITORY "")
-set(encoder_dataset_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6ab672d1f8855258c50559598b02fbf5b6d5d4ec2b5c9a319a04b5ae797e4ec
+size 772

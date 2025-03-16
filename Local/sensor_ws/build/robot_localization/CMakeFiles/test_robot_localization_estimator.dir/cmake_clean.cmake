@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_robot_localization_estimator"
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_robot_localization_estimator.pdb"
-  "CMakeFiles/test_robot_localization_estimator.dir/test/test_robot_localization_estimator.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/test_robot_localization_estimator.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:95716ad1ddcf7b710d67cb311013b8b74d649fcad7fcd392edcdb147ceacb7f7
+size 484

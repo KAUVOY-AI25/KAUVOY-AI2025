@@ -1,2 +1,3 @@
-# Empty dependencies file for test_ekf_localization_node_bag2.
-# This may be replaced when dependencies are built.
+version https://git-lfs.github.com/spec/v1
+oid sha256:154a9c75128e9870a77d342fa1111f74cf3bdb6f95ae4591dd74655ee122717d
+size 115

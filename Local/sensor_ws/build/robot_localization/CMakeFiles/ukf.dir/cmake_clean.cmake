@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/libukf.pdb"
-  "/home/kauvoy/sensor_ws/devel/lib/libukf.so"
-  "CMakeFiles/ukf.dir/src/ukf.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/ukf.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:29eb70379f18ff269f16860358944e00d9bcba06a0803a21393495a89885b3a9
+size 304

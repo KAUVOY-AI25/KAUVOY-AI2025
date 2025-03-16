@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/devel
-
-Name: test
-Description: Description of test
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b599ae19a7b1b4254615e99b36ce3ebf6412d7d9f60465490a69314e2e5d85b1
+size 139

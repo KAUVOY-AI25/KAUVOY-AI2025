@@ -1,9 +1,3 @@
-#!/usr/bin/env sh
-# generated from catkin/cmake/template/local_setup.sh.in
-
-# since this file is sourced either use the provided _CATKIN_SETUP_DIR
-# or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/kauvoy/sensor_ws/install}
-CATKIN_SETUP_UTIL_ARGS="--extend --local"
-. "$_CATKIN_SETUP_DIR/setup.sh"
-unset CATKIN_SETUP_UTIL_ARGS
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c8df395f88f1bf7ab29aea3ac476ec01ef489a28cf4a7d03daf47ad777b287
+size 361

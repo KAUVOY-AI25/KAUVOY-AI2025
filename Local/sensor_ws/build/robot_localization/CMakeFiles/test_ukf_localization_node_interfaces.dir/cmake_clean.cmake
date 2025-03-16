@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_ukf_localization_node_interfaces"
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_ukf_localization_node_interfaces.pdb"
-  "CMakeFiles/test_ukf_localization_node_interfaces.dir/test/test_ukf_localization_node_interfaces.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/test_ukf_localization_node_interfaces.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ce54c1d292d869288aa6776786d5510dc5d3ce289521932c707f05f8690eed
+size 504

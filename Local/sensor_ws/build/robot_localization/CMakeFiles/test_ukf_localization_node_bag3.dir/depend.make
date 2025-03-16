@@ -1,2 +1,3 @@
-# Empty dependencies file for test_ukf_localization_node_bag3.
-# This may be replaced when dependencies are built.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a12416c9779f050244404c1f8dd227de91533f8beafd766d7ffc22943204e430
+size 115

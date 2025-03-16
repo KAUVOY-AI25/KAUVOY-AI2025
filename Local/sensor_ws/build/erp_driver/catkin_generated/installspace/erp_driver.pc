@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/install
-
-Name: erp_driver
-Description: Description of erp_driver
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: rospy message_runtime
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a4b3b4989ee03de8127880f6ac37e6f4b7d3ec9c50483145b0ff1abef47374
+size 193

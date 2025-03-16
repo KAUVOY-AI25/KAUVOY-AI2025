@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_filter_base_diagnostics_timestamps"
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_filter_base_diagnostics_timestamps.pdb"
-  "CMakeFiles/test_filter_base_diagnostics_timestamps.dir/test/test_filter_base_diagnostics_timestamps.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/test_filter_base_diagnostics_timestamps.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:73de99615db70ad3775be719a6e8513753ce51f136279f40a23b29c28c346a92
+size 514

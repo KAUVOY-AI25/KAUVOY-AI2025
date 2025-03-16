@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.installspace.in
-
-_prepend_path("${rtcm_msgs_DIR}/.." "msg" rtcm_msgs_MSG_INCLUDE_DIRS UNIQUE)
-set(rtcm_msgs_MSG_DEPENDENCIES std_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:411b729d168c0126c78056e98779de1c14b82ccc6d1060d7fed0100c4f9c4958
+size 185

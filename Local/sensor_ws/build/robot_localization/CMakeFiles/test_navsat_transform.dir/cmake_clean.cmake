@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_navsat_transform"
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/test_navsat_transform.pdb"
-  "CMakeFiles/test_navsat_transform.dir/test/test_navsat_transform.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/test_navsat_transform.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:a12eac4be85a9973525539bf5fd5b62039ac4eab98ca86bb6740a0bb031bf62e
+size 424

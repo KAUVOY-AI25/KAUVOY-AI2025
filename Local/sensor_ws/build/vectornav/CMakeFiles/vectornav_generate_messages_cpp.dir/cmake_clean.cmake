@@ -1,9 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/include/vectornav/Ins.h"
-  "CMakeFiles/vectornav_generate_messages_cpp"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/vectornav_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f22483ce996d94c28da2b3bbdaea666f3d09180ecc80e6bde488928758bd04
+size 301

@@ -1,2 +1,3 @@
-set(robot_localization_MESSAGE_FILES "")
-set(robot_localization_SERVICE_FILES "/home/kauvoy/sensor_ws/src/robot_localization/srv/GetState.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/SetDatum.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/SetPose.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/SetUTMZone.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/ToggleFilterProcessing.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/FromLL.srv;/home/kauvoy/sensor_ws/src/robot_localization/srv/ToLL.srv")
+version https://git-lfs.github.com/spec/v1
+oid sha256:13366ef904ee3be13c75f2814ef13e1753f092fb72bab0a7da3ca2c55afbbde7
+size 531

@@ -1,20 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(FILTER-VAL
-          FILTER
-          NMEAVERSION-VAL
-          NMEAVERSION
-          NUMSV-VAL
-          NUMSV
-          FLAGS-VAL
-          FLAGS
-          GNSSTOFILTER-VAL
-          GNSSTOFILTER
-          SVNUMBERING-VAL
-          SVNUMBERING
-          MAINTALKERID-VAL
-          MAINTALKERID
-          GSVTALKERID-VAL
-          GSVTALKERID
-          RESERVED-VAL
-          RESERVED
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:2589f22cfc9ae61c7790612fdf8909798aaa5a1394f4d6cfb6add1207e90987a
+size 432

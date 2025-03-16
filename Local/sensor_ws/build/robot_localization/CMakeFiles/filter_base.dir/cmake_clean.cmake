@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/libfilter_base.pdb"
-  "/home/kauvoy/sensor_ws/devel/lib/libfilter_base.so"
-  "CMakeFiles/filter_base.dir/src/filter_base.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/filter_base.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:256b86630d97d174c45e6a81035c1639f2320ca45adb0325f7ea5dd858e8194f
+size 344

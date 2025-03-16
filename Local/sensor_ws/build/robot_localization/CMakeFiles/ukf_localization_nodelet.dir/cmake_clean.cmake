@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/libukf_localization_nodelet.pdb"
-  "/home/kauvoy/sensor_ws/devel/lib/libukf_localization_nodelet.so"
-  "CMakeFiles/ukf_localization_nodelet.dir/src/ukf_localization_nodelet.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/ukf_localization_nodelet.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b1c651396015376b0f1ba55e3bc92efc96fb86a7ef1204892cd4a803646b03
+size 409

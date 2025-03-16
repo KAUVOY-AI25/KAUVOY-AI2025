@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/timestamp
-# Build directory: /home/kauvoy/sensor_ws/build/timestamp
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9766431722a8e1e65807e9bf33d6a23ea64b23f0b39fd25a3123612927d23e3f
+size 287

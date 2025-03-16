@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/sensor_ws/install
-
-Name: ublox_gps
-Description: Description of ublox_gps
-Version: 1.1.2
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lublox_gps
-Requires: roscpp ublox_msgs ublox_serialization
+version https://git-lfs.github.com/spec/v1
+oid sha256:abc470798f7c10bb0c5c7d8c48258979d932bba77dc3741d320e784e44fa047f
+size 218

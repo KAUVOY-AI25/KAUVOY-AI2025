@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/ublox_f9p/rtcm_msgs
-# Build directory: /home/kauvoy/sensor_ws/build/ublox_f9p/rtcm_msgs
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2551772f73730cbf65e93f52c28a127245b0e87c65f7bee85e1081e2d102553
+size 307

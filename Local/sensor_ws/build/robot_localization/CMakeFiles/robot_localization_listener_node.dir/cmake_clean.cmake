@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/robot_localization_listener_node"
-  "/home/kauvoy/sensor_ws/devel/lib/robot_localization/robot_localization_listener_node.pdb"
-  "CMakeFiles/robot_localization_listener_node.dir/src/robot_localization_listener_node.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/robot_localization_listener_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:0206c71bde778ce3ba24eec24f57968b94c91c6debef0c9445c242c2668c98ff
+size 478

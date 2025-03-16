@@ -25,6 +25,8 @@
     <!-- 추가한 코드 사항 -->
     <param name="imu_frame" value="imu_link"/>
     <param name="base_link_frame" value="base_link" /> 
+    <param name="initial_state" value="[0,0,0,0,0,2.574]" />
+    <remap from="gps/fix" to="/ublox_gps/fix"/>
   </node>
 
 

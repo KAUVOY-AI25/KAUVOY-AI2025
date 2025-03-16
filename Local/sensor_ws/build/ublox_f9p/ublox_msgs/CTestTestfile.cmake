@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/sensor_ws/src/ublox_f9p/ublox_msgs
-# Build directory: /home/kauvoy/sensor_ws/build/ublox_f9p/ublox_msgs
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd507b8dde5213294ea5446dabb8d532af41e7eb0787f58ceeed893f3450332
+size 309

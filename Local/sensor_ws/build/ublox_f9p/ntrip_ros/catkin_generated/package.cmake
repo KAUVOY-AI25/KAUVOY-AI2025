@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "ntrip_ros")
-set(ntrip_ros_VERSION "0.0.1")
-set(ntrip_ros_MAINTAINER "tilk <tilk@tilk.eu>")
-set(ntrip_ros_PACKAGE_FORMAT "1")
-set(ntrip_ros_BUILD_DEPENDS )
-set(ntrip_ros_BUILD_EXPORT_DEPENDS "nmea_msgs" "rospy" "rtcm_msgs" "std_msgs")
-set(ntrip_ros_BUILDTOOL_DEPENDS "catkin")
-set(ntrip_ros_BUILDTOOL_EXPORT_DEPENDS )
-set(ntrip_ros_EXEC_DEPENDS "nmea_msgs" "rospy" "rtcm_msgs" "std_msgs")
-set(ntrip_ros_RUN_DEPENDS "nmea_msgs" "rospy" "rtcm_msgs" "std_msgs")
-set(ntrip_ros_TEST_DEPENDS )
-set(ntrip_ros_DOC_DEPENDS )
-set(ntrip_ros_URL_WEBSITE "")
-set(ntrip_ros_URL_BUGTRACKER "")
-set(ntrip_ros_URL_REPOSITORY "")
-set(ntrip_ros_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c1f1dcf3a57ce4d4347a334ce965a0226f32acf2d0a1f03e833331fcd74e0c9
+size 668

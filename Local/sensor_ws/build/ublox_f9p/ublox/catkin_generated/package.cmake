@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "ublox")
-set(ublox_VERSION "1.1.2")
-set(ublox_MAINTAINER "Veronica Lane <vmlane@alum.mit.edu>")
-set(ublox_PACKAGE_FORMAT "1")
-set(ublox_BUILD_DEPENDS )
-set(ublox_BUILD_EXPORT_DEPENDS )
-set(ublox_BUILDTOOL_DEPENDS "catkin")
-set(ublox_BUILDTOOL_EXPORT_DEPENDS )
-set(ublox_EXEC_DEPENDS )
-set(ublox_RUN_DEPENDS )
-set(ublox_TEST_DEPENDS )
-set(ublox_DOC_DEPENDS )
-set(ublox_URL_WEBSITE "http://wiki.ros.org/ublox")
-set(ublox_URL_BUGTRACKER "")
-set(ublox_URL_REPOSITORY "")
-set(ublox_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff2f8ee1c0eb347804f5905c4dbd30a115f0d0c317ae7fe29c67867543cbaff8
+size 519

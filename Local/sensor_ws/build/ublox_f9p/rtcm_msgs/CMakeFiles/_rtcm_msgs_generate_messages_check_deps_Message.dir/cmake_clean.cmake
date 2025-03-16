@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_rtcm_msgs_generate_messages_check_deps_Message"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_rtcm_msgs_generate_messages_check_deps_Message.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7a5cbfeac94a9a7e36edae1480424094ed20db2894cbbe4b4e3e882a6b2f64
+size 276

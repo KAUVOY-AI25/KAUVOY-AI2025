@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.installspace.in
-
-_prepend_path("${vectornav_DIR}/.." "msg" vectornav_MSG_INCLUDE_DIRS UNIQUE)
-set(vectornav_MSG_DEPENDENCIES std_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f759d6619b609bcd550f88258ef0a2f81e3c3e51704e780007353208a0d85da4
+size 185

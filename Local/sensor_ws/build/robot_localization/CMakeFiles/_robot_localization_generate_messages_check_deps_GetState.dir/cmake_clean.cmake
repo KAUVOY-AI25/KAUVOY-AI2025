@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_robot_localization_generate_messages_check_deps_GetState"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_robot_localization_generate_messages_check_deps_GetState.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:254da9de6e7e43e9bdad231f9b42cd280e3fe8cb1e703a110104882932440006
+size 296

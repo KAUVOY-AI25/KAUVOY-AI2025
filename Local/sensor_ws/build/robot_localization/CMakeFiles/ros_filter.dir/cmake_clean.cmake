@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/sensor_ws/devel/lib/libros_filter.pdb"
-  "/home/kauvoy/sensor_ws/devel/lib/libros_filter.so"
-  "CMakeFiles/ros_filter.dir/src/ros_filter.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/ros_filter.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb6108fbb9cf53bcbfe102e5cf62a9e4a0a075a6d588196bc7120574e0645bc
+size 339
