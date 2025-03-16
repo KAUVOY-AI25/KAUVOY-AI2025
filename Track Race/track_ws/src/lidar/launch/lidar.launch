@@ -1,0 +1,21 @@
+<launch>
+    <!-- Velodyne LiDAR Node (VLP16 포인트 클라우드) -->
+    <include file="/home/kauvoy/track_ws/src/velodyne/velodyne_pointcloud/launch/VLP16_points.launch" output="screen"/>
+    
+
+    <!-- RViz 실행 -->
+    <node pkg="rviz" type="rviz" name="rviz" output="screen" args="-f velodyne"/>
+
+    <!-- 데이터 처리 관련 노드 실행 -->
+    <node pkg="voxel" type="voxel_node" name="voxel_node" output="screen"/>
+    <node pkg="roi" type="roi_node" name="roi_node" output="screen"/>
+    <node pkg="outlier" type="outlier_node" name="outlier_node" output="screen"/>
+    <node pkg="ransac" type="ransac_node" name="ransac_node" output="screen"/>
+    <node pkg="euclidean" type="euclidean_node" name="euclidean_node" output="screen"/>
+    <!-- tf_broadcaster 실행 -->
+    <node pkg="lidar" type="tf_broadcaster.py" name="tf_broadcaster" output="screen"/>
+    <node pkg="waypoint" type="waypoint_node" name="waypoint_node" output="screen"/>
+
+
+</launch>
+

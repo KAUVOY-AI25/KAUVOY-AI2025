@@ -1,0 +1,44 @@
+trackrace lidar 매뉴얼
+
+(새 터미널을 열고)conda activate trackrace 를 하면 작업 환경이 바뀝니다
+cd track_ws해주시고
+
+cm
+sb
+(이 2개는  voxel, roi, outlier, ransac, euclidean, waypoint 코드 작성하기 이전에도 새로운 터미널 열고 매번 작성해주세요)
+
+
+1. roslaunch velodyne_pointcloud VLP16_points.launch (라이다 on)
+
+2. rosrun voxel voxel_node
+3. rosrun roi roi_node
+4. rosrun outlier outlier_node
+5. rosrun ransac ransac_node
+
+6. rosrun euclidean euclidean_node
+
+7. cd src/lidar/scripts
+python tf_broadcaster.py (tf 변환 코드)
+
+8. rosrun waypoint waypoint_node
+
+9. rosrun rviz rviz -f velodyne(rviz 키는 코드)
+(rviz 들어가면) add -> By topic에 보시면 방금 작성한 노드들이 나와있습니다 
+ex. voxel 코드 작성하고 by topic에 보시면 lidar_voxel 아래에 PointCloud2 이렇게 되어있는데 이거 누르고 OK 누르면 나옵니다!
+
+
+
+--------------------------------------------------------------------------------
+launch 일부 생성 
+1. cd track_ws
+cm
+sb
+cd
+roslaunch ~/track_ws/src/lidar/launch/lidar.launch
+
+2. cd track_ws/src/lidar/scripts
+python3 tf_broadcaster.py
+
+3. rviz 좌측 상단 file -> open config
+(경로) track_ws/src/lidar/rviz/rviz.rviz 실행
+
