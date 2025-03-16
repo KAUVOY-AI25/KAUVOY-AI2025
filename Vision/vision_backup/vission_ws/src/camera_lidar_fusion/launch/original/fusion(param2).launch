@@ -1,0 +1,36 @@
+<launch>
+    <!-- USB Camera Node (멀티캠 실행) -->
+    <include file="/home/kauvoy/catkin_ws/src/usb_cam/launch/multicam.launch" output="screen"/>
+    
+    <!-- Panorama Node: 두 개의 카메라를 스티칭하여 /panorama/image 퍼블리시 -->
+    <node name="panorama_node" pkg="camera_lidar_fusion" type="panorama_node.py" output="screen">
+        <param name="calibration_time" value="15"/>
+    </node>
+
+    <!-- Fusion Node: /panorama/image를 구독하고 Lidar와 Fusion 수행 -->
+    <node name="fusion_node" pkg="camera_lidar_fusion" type="fusion_node" output="screen"/>
+
+    <!-- Velodyne LiDAR Node (VLP16 포인트 클라우드) -->
+    <include file="/home/kauvoy/catkin_ws/src/velodyne/velodyne_pointcloud/launch/VLP16_points.launch" output="screen"/>
+    
+    <!-- Point Cloud Processing Nodes -->
+    <!-- Voxel Downsampling -->
+    <node pkg="voxel" type="voxel_node" name="voxel_node" output="screen"/>
+
+    <!-- Region of Interest Filtering -->
+    <node pkg="roi" type="roi_node" name="roi_node" output="screen"/>
+    
+    <!-- RANSAC for Plane Removal -->
+    <node pkg="ransac" type="ransac_node" name="ransac_node" output="screen"/>
+    
+    <!-- DBSCAN for Clustering -->
+    <node pkg="dbscan" type="dbscan_node" name="dbscan_node" output="screen"/>
+    
+    <!-- YOLO Object Detection -->
+    <include file="/home/kauvoy/catkin_ws/src/yolov9_ros/ros/launch/detect.launch" output="screen"/>
+    
+    <!-- RViz for Visualization -->
+    <node pkg="rviz" type="rviz" name="rviz" args="-d /home/kauvoy/catkin_ws/src/camera_lidar_fusion/rviz/config.rviz"/>
+  
+</launch>
+

@@ -1,0 +1,23 @@
+<launch>
+    <!--  Velodyne LiDAR 실행 -->
+    <include file="$(find velodyne_pointcloud)/launch/VLP16_points.launch"/>
+
+    <!--  LIDAR 처리 노드 실행 -->
+    <node pkg="voxel" type="voxel_node" name="voxel_node" output="screen"/>
+    <node pkg="roi" type="roi_node" name="roi_node" output="screen"/>
+    <node pkg="outlier" type="outlier_node" name="outlier_node" output="screen"/>
+    <node pkg="ransac" type="ransac_node" name="ransac_node" output="screen"/>
+    <node pkg="euclidean" type="euclidean_node" name="euclidean_node" output="screen"/>
+
+    <!--  TF Broadcaster (Python 실행) -->
+    <node name="tf_broadcaster" pkg="lidar" type="python3" args="$(find lidar)/scripts/tf_broadcaster.py" output="screen"/>
+
+
+    <!--  Waypoint 생성 -->d
+    <node pkg="waypoint" type="waypoint_node" name="waypoint_node" output="screen"/>
+
+    <!--  RViz 실행 -->
+    <node name="rviz" pkg="rviz" type="rviz" output="screen"
+          args="-d $(find lidar)/rviz/rviz.rviz"/>
+    
+</launch>

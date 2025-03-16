@@ -1,0 +1,23 @@
+<launch>
+    <!-- LiDAR 활성화 -->
+    <include file="$(find velodyne_pointcloud)/launch/VLP16_points.launch"/>
+
+    <!-- Lidar Processing Nodes -->
+    <node pkg="lidar" name="voxel_node" output="screen" type="voxel_node"/>
+    <node pkg="lidar" name="roi_node" output="screen" type="roi_node"/>
+    <node pkg="lidar" name="outlier_node" output="screen" type="outlier_node"/>
+    <node pkg="lidar" name="ransac_node" output="screen" type="ransac_node"/>
+    <node pkg="lidar" name="euclidean_node" output="screen" type="euclidean_node"/>
+    <node pkg="lidar" name="dbscan_node" output="screen" type="dbscan_node"/>
+
+    <!-- TF Broadcaster -->
+    <node pkg="lidar" name="tf_broadcaster" output="screen"
+          type="tf_broadcaster.py" launch-prefix="python3"/>
+
+    <!-- Waypoint Generator -->
+    <node pkg="lidar" name="waypoint_node" output="screen" type="waypoint_node"/>
+
+    <!-- RViz 자동 실행 -->
+    <node pkg="rviz" type="rviz" name="rviz" args="-f velodyne" output="screen"/>
+</launch>
+

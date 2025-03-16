@@ -1,0 +1,18 @@
+ros:
+  #sub_img_topic_name: "/img_topic" # image topic name
+  #sub_img_topic_name: "/camera1/usb_cam1/image_raw" # image topic name
+  #sub_img_topic_name: "/camera_lidar_fusion/output"
+  sub_img_topic_name: "/param"
+  
+  pub_detect_topic_name: "/yolov9_detect" # (output)detection result topic name
+
+yolo:
+  yolo_path: "/home/kauvoy/catkin_ws/src/yolov9_ros"
+  image_width: 640
+  image_height: 480
+  weight_path: "/home/kauvoy/catkin_ws/src/yolov9_ros/best.pt"
+  visualize: false
+
+  # publish visualize image
+  pub_detect_image_topic_name: "/detect_result_img" # if you don't want, check False
+  #pub_detect_image_topic_name: "/yolov9_detect_img" # if you don't want, check False
