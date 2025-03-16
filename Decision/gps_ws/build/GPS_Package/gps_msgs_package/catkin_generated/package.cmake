@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "gps_msgs_package")
-set(gps_msgs_package_VERSION "0.0.0")
-set(gps_msgs_package_MAINTAINER "je <je@todo.todo>")
-set(gps_msgs_package_PACKAGE_FORMAT "2")
-set(gps_msgs_package_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs" "nav_msgs" "tf")
-set(gps_msgs_package_BUILD_EXPORT_DEPENDS "geometry_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs" "nav_msgs" "tf")
-set(gps_msgs_package_BUILDTOOL_DEPENDS "catkin")
-set(gps_msgs_package_BUILDTOOL_EXPORT_DEPENDS )
-set(gps_msgs_package_EXEC_DEPENDS "geometry_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs" "nav_msgs" "tf")
-set(gps_msgs_package_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy" "sensor_msgs" "std_msgs" "nav_msgs" "tf")
-set(gps_msgs_package_TEST_DEPENDS )
-set(gps_msgs_package_DOC_DEPENDS )
-set(gps_msgs_package_URL_WEBSITE "")
-set(gps_msgs_package_URL_BUGTRACKER "")
-set(gps_msgs_package_URL_REPOSITORY "")
-set(gps_msgs_package_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:51832861398f7d4e71116ffd9b2aea0fdb819c603f085a6d783e4a48e3a3fa21
+size 944

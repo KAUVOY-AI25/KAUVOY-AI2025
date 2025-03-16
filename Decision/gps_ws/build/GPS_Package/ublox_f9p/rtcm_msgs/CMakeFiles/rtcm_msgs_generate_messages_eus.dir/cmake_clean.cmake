@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/roseus/ros/rtcm_msgs/manifest.l"
-  "/home/kauvoy/gps_ws/devel/share/roseus/ros/rtcm_msgs/msg/Message.l"
-  "CMakeFiles/rtcm_msgs_generate_messages_eus"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e863ff929b0768a07e2b92a0c9952f2ef687d89d8c00350983b5162a0df3b31
+size 383

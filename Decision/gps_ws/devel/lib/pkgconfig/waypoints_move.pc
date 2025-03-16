@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: waypoints_move
-Description: Description of waypoints_move
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs roscpp rospy std_msgs visualization_msgs tf2_geometry_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:781ef9fe63f22eebea6e3c09fc50657f0ee84192942b407a1e4cc14b1e3d956e
+size 228

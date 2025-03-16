@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/_Message.py"
-  "/home/kauvoy/gps_ws/devel/lib/python3/dist-packages/rtcm_msgs/msg/__init__.py"
-  "CMakeFiles/rtcm_msgs_generate_messages_py"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1e50d9192016279e90bf2bbb0a80457f63dbe96851c615f7db2c5a6a02ba64e
+size 406

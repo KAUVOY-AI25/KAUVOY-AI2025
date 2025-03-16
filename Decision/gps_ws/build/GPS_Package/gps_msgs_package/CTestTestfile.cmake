@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_msgs_package
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/gps_msgs_package
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:552cfae769aa322772924b2e7dd57f151ad88c4f83f5115a9232731fc3ae8aff
+size 319

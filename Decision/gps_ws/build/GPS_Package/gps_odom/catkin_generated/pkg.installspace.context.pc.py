@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "${prefix}/include".split(';') if "${prefix}/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "roscpp;rospy;std_msg;geometry_msgs;tf2_geometry_msgs;sensor_msgs;tf".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "utm_to_odom"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/install"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:640d1e2a962db6334705e21016283d7760ff782f4e1039085936213cb8137d10
+size 473

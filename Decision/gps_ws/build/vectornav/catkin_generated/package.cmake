@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "vectornav")
-set(vectornav_VERSION "2.0.0")
-set(vectornav_MAINTAINER "Dereck Wonnacott <dereck@gmail.com>")
-set(vectornav_PACKAGE_FORMAT "1")
-set(vectornav_BUILD_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf2" "tf2_geometry_msgs")
-set(vectornav_BUILD_EXPORT_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf2" "tf2_geometry_msgs")
-set(vectornav_BUILDTOOL_DEPENDS "catkin")
-set(vectornav_BUILDTOOL_EXPORT_DEPENDS )
-set(vectornav_EXEC_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf2" "tf2_geometry_msgs")
-set(vectornav_RUN_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf2" "tf2_geometry_msgs")
-set(vectornav_TEST_DEPENDS )
-set(vectornav_DOC_DEPENDS )
-set(vectornav_URL_WEBSITE "")
-set(vectornav_URL_BUGTRACKER "")
-set(vectornav_URL_REPOSITORY "")
-set(vectornav_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cbe8ae0d4401a7114eb7ca3e52f16e77164537c8b20fd63ae699adee2929e8
+size 794

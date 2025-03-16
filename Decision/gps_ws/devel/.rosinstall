@@ -1,2 +1,3 @@
-- setup-file:
-    local-name: /home/kauvoy/gps_ws/devel/setup.sh
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec5b565926fb60fb104d49c4ecf530dbbb2405dcbeb0ea5d7eb3583bf5b0517
+size 65

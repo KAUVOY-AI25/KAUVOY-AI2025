@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
-PROJECT_CATKIN_DEPENDS = "roscpp;rospy;std_msgs;visualization_msgs".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "waypoint_rviz_display"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/install"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:638ab7e5ceab0f7d4c8c0e3ecd95e4f94243bf01cff9f5e2781b2ed06596ed68
+size 422

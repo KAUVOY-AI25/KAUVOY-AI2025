@@ -1,5 +1,3 @@
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/rtcm_msgs_generate_messages.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb43297a5896401b31dd7990bd2d6892ae450bcfd262010075786eb926a523f
+size 171

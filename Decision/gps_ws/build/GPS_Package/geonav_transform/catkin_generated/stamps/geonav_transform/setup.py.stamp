@@ -1,12 +1,3 @@
-## ! DO NOT MANUALLY INVOKE THIS setup.py, USE CATKIN INSTEAD
-
-from distutils.core import setup
-from catkin_pkg.python_setup import generate_distutils_setup
-
-# fetch values from package.xml
-setup_args = generate_distutils_setup(
-    packages=['geonav_transform','alvinxy'],
-    package_dir={'': 'src'},
-)
-
-setup(**setup_args)
+version https://git-lfs.github.com/spec/v1
+oid sha256:632956cd8d74f1a6782e6324f673dbc2cfec429eec67332af9502ba232558b60
+size 326

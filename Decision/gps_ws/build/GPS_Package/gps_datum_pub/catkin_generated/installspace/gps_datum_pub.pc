@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/install
-
-Name: gps_datum_pub
-Description: Description of gps_datum_pub
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs geometry_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e755ef585fecdbeb48916cc528d1c466819060e4f9da140a15f073a95e26a85
+size 185

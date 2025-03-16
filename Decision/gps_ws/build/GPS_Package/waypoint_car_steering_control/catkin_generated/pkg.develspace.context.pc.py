@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
-PROJECT_CATKIN_DEPENDS = "geometry_msgs;roscpp;rospy;std_msgs;tf2_geometry_msgs".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "waypoint_car_steering_control"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd891c93e8988dd71960f1de3d898a03a98ed5c75c03a6f95284e91797dbf3b
+size 441

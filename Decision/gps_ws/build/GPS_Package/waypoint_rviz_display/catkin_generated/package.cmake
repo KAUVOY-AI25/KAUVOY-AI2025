@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "waypoint_rviz_display")
-set(waypoint_rviz_display_VERSION "0.0.0")
-set(waypoint_rviz_display_MAINTAINER "amap <amap@todo.todo>")
-set(waypoint_rviz_display_PACKAGE_FORMAT "2")
-set(waypoint_rviz_display_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "visualization_msgs")
-set(waypoint_rviz_display_BUILD_EXPORT_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "visualization_msgs")
-set(waypoint_rviz_display_BUILDTOOL_DEPENDS "catkin")
-set(waypoint_rviz_display_BUILDTOOL_EXPORT_DEPENDS )
-set(waypoint_rviz_display_EXEC_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "visualization_msgs")
-set(waypoint_rviz_display_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "visualization_msgs")
-set(waypoint_rviz_display_TEST_DEPENDS )
-set(waypoint_rviz_display_DOC_DEPENDS )
-set(waypoint_rviz_display_URL_WEBSITE "")
-set(waypoint_rviz_display_URL_BUGTRACKER "")
-set(waypoint_rviz_display_URL_REPOSITORY "")
-set(waypoint_rviz_display_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:fecfc5d6fb113188af963235593387e0a6918a4d2cbb236d6b5429104d8760c3
+size 992

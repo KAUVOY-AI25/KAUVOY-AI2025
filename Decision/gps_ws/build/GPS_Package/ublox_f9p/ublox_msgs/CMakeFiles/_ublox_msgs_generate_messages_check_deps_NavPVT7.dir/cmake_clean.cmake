@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_ublox_msgs_generate_messages_check_deps_NavPVT7"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_ublox_msgs_generate_messages_check_deps_NavPVT7.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:4526e348df84628e9a440d9d412e29e43888a8727e49455e5560848650d67561
+size 278

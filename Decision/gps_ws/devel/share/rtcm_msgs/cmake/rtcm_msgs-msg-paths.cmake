@@ -1,4 +1,3 @@
-# generated from genmsg/cmake/pkg-msg-paths.cmake.develspace.in
-
-set(rtcm_msgs_MSG_INCLUDE_DIRS "/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/rtcm_msgs/msg")
-set(rtcm_msgs_MSG_DEPENDENCIES std_msgs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e318d287efd1a096bb091abf8a7558b6ccd2441054efee94a7d1e6ee4650a47
+size 200

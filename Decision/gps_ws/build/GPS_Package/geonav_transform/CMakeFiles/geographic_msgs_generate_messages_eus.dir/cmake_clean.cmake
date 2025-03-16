@@ -1,5 +1,3 @@
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/geographic_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4f0f1024e354714a3309fff85ba383858b9b84a2bd761672b5ce310adeb165
+size 181

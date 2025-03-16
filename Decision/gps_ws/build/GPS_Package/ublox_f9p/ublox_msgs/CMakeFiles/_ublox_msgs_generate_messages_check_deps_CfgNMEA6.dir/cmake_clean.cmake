@@ -1,8 +1,3 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/_ublox_msgs_generate_messages_check_deps_CfgNMEA6"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/_ublox_msgs_generate_messages_check_deps_CfgNMEA6.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d2226b3228294a9806653f9daacb0c531e1cba193783e9c7f655adc4082d053
+size 280

@@ -1,11 +1,3 @@
-# generated from genmsg/cmake/pkg-genmsg.context.in
-
-messages_str = "/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/rtcm_msgs/msg/Message.msg"
-services_str = ""
-pkg_name = "rtcm_msgs"
-dependencies_str = "std_msgs"
-langs = "gencpp;geneus;genlisp;gennodejs;genpy"
-dep_include_paths_str = "rtcm_msgs;/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/rtcm_msgs/msg;std_msgs;/opt/ros/noetic/share/std_msgs/cmake/../msg"
-PYTHON_EXECUTABLE = "/home/kauvoy/.conda/envs/main/bin/python3"
-package_has_static_sources = '' == 'TRUE'
-genmsg_check_deps_script = "/opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e00d4320ef4e6e4927df69381a03dec5210ebd4dba16168790412c11b8399c6
+size 621

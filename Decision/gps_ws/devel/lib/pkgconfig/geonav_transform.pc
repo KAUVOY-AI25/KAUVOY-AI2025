@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: geonav_transform
-Description: Description of geonav_transform
-Version: 0.0.1
-Cflags: -I/home/kauvoy/gps_ws/src/GPS_Package/geonav_transform/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lgeonav_transform
-Requires: roscpp cmake_modules geographic_msgs geometry_msgs nav_msgs sensor_msgs std_msgs tf2 tf2_geometry_msgs tf2_ros
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30fe623a5499f4345df5541b150ebf579b6ba6850888408dc2048790dc614e4
+size 372

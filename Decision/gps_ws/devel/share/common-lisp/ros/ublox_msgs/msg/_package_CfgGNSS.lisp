@@ -1,12 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(MSGVER-VAL
-          MSGVER
-          NUMTRKCHHW-VAL
-          NUMTRKCHHW
-          NUMTRKCHUSE-VAL
-          NUMTRKCHUSE
-          NUMCONFIGBLOCKS-VAL
-          NUMCONFIGBLOCKS
-          BLOCKS-VAL
-          BLOCKS
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:44563d74f3fd9d9090d109c541f03dc26c839b835fb16a4006079d6ad76f6ccd
+size 262

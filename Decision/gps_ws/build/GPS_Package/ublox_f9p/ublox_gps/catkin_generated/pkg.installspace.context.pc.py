@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "${prefix}/include".split(';') if "${prefix}/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "roscpp;ublox_msgs;ublox_serialization".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lublox_gps".split(';') if "-lublox_gps" != "" else []
-PROJECT_NAME = "ublox_gps"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/install"
-PROJECT_VERSION = "1.1.2"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb05b4dd37e83357947ac8523cd7ce12641220abfa7f17f192423e6364dbdfb
+size 463

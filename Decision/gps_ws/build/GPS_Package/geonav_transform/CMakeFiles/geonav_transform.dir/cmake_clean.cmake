@@ -1,11 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/libgeonav_transform.pdb"
-  "/home/kauvoy/gps_ws/devel/lib/libgeonav_transform.so"
-  "CMakeFiles/geonav_transform.dir/src/geonav_transform.cpp.o"
-  "CMakeFiles/geonav_transform.dir/src/geonav_utilities.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/geonav_transform.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01b6f1d5951b7d9f72a3370335a1464d4987a91258a1ca3e4bae972d9210f50
+size 426

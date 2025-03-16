@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ntrip_ros
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/ntrip_ros
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84a3ec1505ae21d37e4c801468ceed79d3a5784929ee101476558d0846133c87
+size 325

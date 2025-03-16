@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/gps_datum_pub
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/gps_datum_pub
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b4c00ac99ba40d1d993ee8a36140be3b81e7ac1feb15c916623e9187a4a12a
+size 313

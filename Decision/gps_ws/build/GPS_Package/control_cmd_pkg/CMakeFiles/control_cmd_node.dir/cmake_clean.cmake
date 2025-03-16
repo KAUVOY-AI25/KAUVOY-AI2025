@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node"
-  "/home/kauvoy/gps_ws/devel/lib/control_cmd_pkg/control_cmd_node.pdb"
-  "CMakeFiles/control_cmd_node.dir/src/control_cmd_node.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/control_cmd_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:c39316f4cbdc7fc8e89b8ff8170366575fb8b6779b465cd12547243d0f6f9ec0
+size 386

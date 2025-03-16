@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/ublox_f9p/ublox_msgs
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a6d345751b62d694583c17b5d8790d02123971541849fbeaf3b6d054fd62e81
+size 327

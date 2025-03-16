@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: ublox_msgs
-Description: Description of ublox_msgs
-Version: 1.1.2
-Cflags: -I/home/kauvoy/gps_ws/devel/include -I/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_msgs/include
-Libs: -L${prefix}/lib -lublox_msgs
-Requires: message_runtime ublox_serialization std_msgs sensor_msgs
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf9f42fab9ca985a608b565d6429adbc913942cadaf12471eafa60143f60785
+size 318

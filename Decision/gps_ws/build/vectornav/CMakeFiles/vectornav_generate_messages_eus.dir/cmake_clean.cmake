@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/roseus/ros/vectornav/manifest.l"
-  "/home/kauvoy/gps_ws/devel/share/roseus/ros/vectornav/msg/Ins.l"
-  "CMakeFiles/vectornav_generate_messages_eus"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/vectornav_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:714af450093dfb3da89f87ae5b168cd3d6c14130d15bf14abc740e87b3c223ee
+size 379

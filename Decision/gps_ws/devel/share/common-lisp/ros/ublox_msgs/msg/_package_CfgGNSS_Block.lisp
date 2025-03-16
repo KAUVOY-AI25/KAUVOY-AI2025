@@ -1,12 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(GNSSID-VAL
-          GNSSID
-          RESTRKCH-VAL
-          RESTRKCH
-          MAXTRKCH-VAL
-          MAXTRKCH
-          RESERVED1-VAL
-          RESERVED1
-          FLAGS-VAL
-          FLAGS
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:32107e9dbd7e08fc055ddf262ff57bc32b46b44cec5a323c4845374d84e89d51
+size 238

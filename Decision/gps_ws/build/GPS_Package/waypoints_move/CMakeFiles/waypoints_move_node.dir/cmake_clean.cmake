@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/lib/waypoints_move/waypoints_move_node"
-  "/home/kauvoy/gps_ws/devel/lib/waypoints_move/waypoints_move_node.pdb"
-  "CMakeFiles/waypoints_move_node.dir/src/waypoints_navigation_node.cpp.o"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/waypoints_move_node.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:8976ddc0fddf3f0cba9e2fa5d3595d908e1ff9eb85b23052ba482375044026f8
+size 405

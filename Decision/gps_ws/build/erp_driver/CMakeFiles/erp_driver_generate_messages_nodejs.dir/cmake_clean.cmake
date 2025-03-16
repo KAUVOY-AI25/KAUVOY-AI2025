@@ -1,10 +1,3 @@
-file(REMOVE_RECURSE
-  "/home/kauvoy/gps_ws/devel/share/gennodejs/ros/erp_driver/msg/erpCmdMsg.js"
-  "/home/kauvoy/gps_ws/devel/share/gennodejs/ros/erp_driver/msg/erpStatusMsg.js"
-  "CMakeFiles/erp_driver_generate_messages_nodejs"
-)
-
-# Per-language clean rules from dependency scanning.
-foreach(lang )
-  include(CMakeFiles/erp_driver_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+version https://git-lfs.github.com/spec/v1
+oid sha256:b804971ced9c19b99c6faa60751b55d0be7ae145c970e805806797be2373d71e
+size 411

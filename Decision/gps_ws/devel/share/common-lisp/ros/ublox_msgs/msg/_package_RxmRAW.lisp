@@ -1,12 +1,3 @@
-(cl:in-package ublox_msgs-msg)
-(cl:export '(RCVTOW-VAL
-          RCVTOW
-          WEEK-VAL
-          WEEK
-          NUMSV-VAL
-          NUMSV
-          RESERVED1-VAL
-          RESERVED1
-          SV-VAL
-          SV
-))
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6da08df01de995333db135d1d4d844c42e8eb3572f38d637f58ed498ac38f41
+size 218

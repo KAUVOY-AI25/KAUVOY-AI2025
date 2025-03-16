@@ -1,6 +1,3 @@
-# CMake generated Testfile for 
-# Source directory: /home/kauvoy/gps_ws/src/GPS_Package/waypoint_rviz_display
-# Build directory: /home/kauvoy/gps_ws/build/GPS_Package/waypoint_rviz_display
-# 
-# This file includes the relevant testing commands required for 
-# testing this directory and lists subdirectories to be tested as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d63ee4136b0e228bf6d3f01146f30a316c8ce8d347ab712ecbe33c482619e3
+size 329

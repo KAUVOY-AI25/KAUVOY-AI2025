@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
-PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "control_cmd_pkg"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
-PROJECT_VERSION = "0.0.0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b879a9d599edff41d3dcdd510505731d42b82b9f8ae8d87586906e34ef30cc2
+size 374

@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "gps_datum_pub")
-set(gps_datum_pub_VERSION "0.0.0")
-set(gps_datum_pub_MAINTAINER "amap <amap@todo.todo>")
-set(gps_datum_pub_PACKAGE_FORMAT "2")
-set(gps_datum_pub_BUILD_DEPENDS "roscpp" "std_msgs" "geometry_msgs")
-set(gps_datum_pub_BUILD_EXPORT_DEPENDS "roscpp" "std_msgs" "geometry_msgs")
-set(gps_datum_pub_BUILDTOOL_DEPENDS "catkin")
-set(gps_datum_pub_BUILDTOOL_EXPORT_DEPENDS )
-set(gps_datum_pub_EXEC_DEPENDS "roscpp" "std_msgs" "geometry_msgs")
-set(gps_datum_pub_RUN_DEPENDS "roscpp" "std_msgs" "geometry_msgs")
-set(gps_datum_pub_TEST_DEPENDS )
-set(gps_datum_pub_DOC_DEPENDS )
-set(gps_datum_pub_URL_WEBSITE "")
-set(gps_datum_pub_URL_BUGTRACKER "")
-set(gps_datum_pub_URL_REPOSITORY "")
-set(gps_datum_pub_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:2750a95e33f7039dd8c53deb649a09e462ceb1082e2316f80755155d13a8723f
+size 748

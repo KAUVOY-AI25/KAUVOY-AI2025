@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "waypoint_car_steering_control")
-set(waypoint_car_steering_control_VERSION "0.0.0")
-set(waypoint_car_steering_control_MAINTAINER " <kuksauto@hanmail.net>")
-set(waypoint_car_steering_control_PACKAGE_FORMAT "2")
-set(waypoint_car_steering_control_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "tf2_geometry_msgs")
-set(waypoint_car_steering_control_BUILD_EXPORT_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "tf2_geometry_msgs")
-set(waypoint_car_steering_control_BUILDTOOL_DEPENDS "catkin")
-set(waypoint_car_steering_control_BUILDTOOL_EXPORT_DEPENDS )
-set(waypoint_car_steering_control_EXEC_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "tf2_geometry_msgs")
-set(waypoint_car_steering_control_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "tf2_geometry_msgs")
-set(waypoint_car_steering_control_TEST_DEPENDS )
-set(waypoint_car_steering_control_DOC_DEPENDS )
-set(waypoint_car_steering_control_URL_WEBSITE "")
-set(waypoint_car_steering_control_URL_BUGTRACKER "")
-set(waypoint_car_steering_control_URL_REPOSITORY "")
-set(waypoint_car_steering_control_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:7975e2c90ea97487e89371c14a0b0abcbce5e2a6da624244e46cc0df06a02079
+size 1118

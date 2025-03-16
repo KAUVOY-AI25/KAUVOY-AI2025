@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/devel
-
-Name: ublox_gps
-Description: Description of ublox_gps
-Version: 1.1.2
-Cflags: -I/home/kauvoy/gps_ws/src/GPS_Package/ublox_f9p/ublox_gps/include
-Libs: -L${prefix}/lib -lublox_gps
-Requires: roscpp ublox_msgs ublox_serialization
+version https://git-lfs.github.com/spec/v1
+oid sha256:0260615f45a14bbec045a309bcb4069457f1f32254e3b9d7fd4713ae1f2fd65b
+size 259

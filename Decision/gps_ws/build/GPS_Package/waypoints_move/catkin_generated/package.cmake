@@ -1,16 +1,3 @@
-set(_CATKIN_CURRENT_PACKAGE "waypoints_move")
-set(waypoints_move_VERSION "0.0.0")
-set(waypoints_move_MAINTAINER "amap <amap@todo.todo>")
-set(waypoints_move_PACKAGE_FORMAT "2")
-set(waypoints_move_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "visualization_msgs" "tf2_geometry_msgs")
-set(waypoints_move_BUILD_EXPORT_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "visualization_msgs" "tf2_geometry_msgs")
-set(waypoints_move_BUILDTOOL_DEPENDS "catkin")
-set(waypoints_move_BUILDTOOL_EXPORT_DEPENDS )
-set(waypoints_move_EXEC_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "visualization_msgs" "tf2_geometry_msgs")
-set(waypoints_move_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy" "std_msgs" "visualization_msgs" "tf2_geometry_msgs")
-set(waypoints_move_TEST_DEPENDS )
-set(waypoints_move_DOC_DEPENDS )
-set(waypoints_move_URL_WEBSITE "")
-set(waypoints_move_URL_BUGTRACKER "")
-set(waypoints_move_URL_REPOSITORY "")
-set(waypoints_move_DEPRECATED "")
+version https://git-lfs.github.com/spec/v1
+oid sha256:5df5c6a0f98ed8cb9fa5478e84d0242b6dc0efe493b299713d586895f0adb9ee
+size 960

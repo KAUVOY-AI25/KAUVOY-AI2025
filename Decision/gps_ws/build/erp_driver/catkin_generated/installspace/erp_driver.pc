@@ -1,8 +1,3 @@
-prefix=/home/kauvoy/gps_ws/install
-
-Name: erp_driver
-Description: Description of erp_driver
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: rospy message_runtime
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d0efd9a938adce4a64b7980ebbafa452be6880879eaad17eba3bac489da596
+size 190

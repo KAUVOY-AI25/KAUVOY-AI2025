@@ -1,8 +1,3 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/kauvoy/gps_ws/devel/include".split(';') if "/home/kauvoy/gps_ws/devel/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "message_runtime;std_msgs".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "rtcm_msgs"
-PROJECT_SPACE_DIR = "/home/kauvoy/gps_ws/devel"
-PROJECT_VERSION = "1.1.6"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9c4310eb54edfed511ad48fc51c54f70400c4907febf7cebcbb53edd199cb80
+size 458
